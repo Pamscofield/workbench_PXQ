@@ -1,0 +1,87 @@
+:root{
+  --bg:#0f1115; --panel:#161a21; --panel2:#1d222b; --line:#262c37;
+  --txt:#e8ecf3; --muted:#8b94a6; --acc:#5b9cff; --ok:#43d17c;
+}
+*{box-sizing:border-box}
+html,body{margin:0;height:100%}
+body{background:var(--bg);color:var(--txt);font:15px/1.6 -apple-system,BlinkMacSystemFont,"PingFang SC","Segoe UI",sans-serif}
+.topbar{display:none;align-items:center;gap:12px;padding:12px 16px;border-bottom:1px solid var(--line);position:sticky;top:0;background:var(--bg);z-index:20}
+.topbar h1{font-size:16px;margin:0}
+.iconbtn{background:none;border:0;color:var(--txt);font-size:20px}
+.layout{display:flex;min-height:100%}
+.sidebar{width:220px;flex:0 0 220px;background:var(--panel);border-right:1px solid var(--line);padding:18px 12px;display:flex;flex-direction:column;gap:6px}
+.brand{font-weight:700;letter-spacing:.5px;padding:6px 10px 16px;color:var(--muted);font-size:13px;text-transform:uppercase}
+.navitem{display:flex;align-items:center;gap:10px;background:none;border:0;color:var(--txt);text-align:left;padding:11px 12px;border-radius:10px;font-size:15px;cursor:pointer}
+.navitem:hover{background:var(--panel2)}
+.navitem.active{background:var(--acc);color:#08111f;font-weight:600}
+.spacer{flex:1}
+.hint{color:var(--muted);font-size:12px;padding:10px}
+.content{flex:1;padding:26px 30px 60px;max-width:900px}
+.viewhead{display:flex;align-items:baseline;justify-content:space-between;margin-bottom:16px;gap:12px;flex-wrap:wrap}
+.headright{display:flex;align-items:center;gap:10px}
+h2{margin:0;font-size:22px}
+.muted{color:var(--muted);font-size:13px}
+.pill{background:var(--panel2);border:1px solid var(--line);padding:4px 10px;border-radius:999px;font-size:12px;color:var(--ok)}
+.view{display:none}
+.view.active{display:block}
+.cards{display:flex;flex-direction:column;gap:14px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:16px 18px}
+.card h3{margin:0 0 6px;font-size:16px}
+.card a{color:var(--acc);text-decoration:none;font-size:13px}
+.card .src{color:var(--muted);font-size:12px;margin-bottom:8px}
+.tag{display:inline-block;background:var(--panel2);border:1px solid var(--line);color:var(--acc);padding:1px 8px;border-radius:999px;font-size:11px;margin:0 4px}
+.de-sent{font-size:17px;font-weight:600;margin:2px 0 6px}
+.de-cn{color:#cfd7e6;margin:0 0 10px}
+table.words{width:100%;border-collapse:collapse;font-size:14px}
+table.words td{border-top:1px solid var(--line);padding:6px 4px;vertical-align:top}
+table.words td:first-child{white-space:nowrap;color:var(--acc);font-weight:600;width:34%}
+.gram{margin-top:10px;padding:10px 12px;background:var(--panel2);border-radius:10px;font-size:13px;color:#cfd7e6}
+.empty{color:var(--muted);padding:20px 0}
+.primary{margin-top:20px;background:var(--ok);color:#062312;border:0;padding:12px 18px;border-radius:12px;font-weight:700;font-size:15px}
+/* flashcards */
+.fcbar{display:flex;gap:14px;align-items:center;flex-wrap:wrap;margin-bottom:18px;font-size:13px;color:var(--muted)}
+.fcbar select{margin-left:6px;background:var(--panel2);color:var(--txt);border:1px solid var(--line);border-radius:8px;padding:6px 8px;font-size:14px}
+.ghost{background:var(--panel2);color:var(--txt);border:1px solid var(--line);border-radius:9px;padding:7px 12px;font-size:13px;cursor:pointer}
+.flashcard{perspective:1200px;width:100%;max-width:520px;height:260px;cursor:pointer;user-select:none}
+.fc-inner{position:relative;width:100%;height:100%;transition:transform .5s;transform-style:preserve-3d}
+.flashcard.flip .fc-inner{transform:rotateY(180deg)}
+.fc-face{position:absolute;inset:0;backface-visibility:hidden;background:var(--panel);border:1px solid var(--line);border-radius:18px;padding:22px;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;gap:10px}
+.fc-back{transform:rotateY(180deg)}
+.fc-q{font-size:30px;font-weight:700}
+.fc-a{font-size:26px;font-weight:700;color:var(--ok)}
+.fc-hint{font-size:13px;color:var(--muted)}
+.fc-extra{font-size:14px;color:#cfd7e6;line-height:1.9}
+.fc-tap{position:absolute;bottom:12px;font-size:12px;color:var(--muted)}
+.artrow{display:flex;gap:10px;margin-top:6px}
+.artrow button{min-width:74px;padding:10px 0;font-size:16px;font-weight:700;background:var(--panel2);color:var(--txt);border:1px solid var(--line);border-radius:10px;cursor:pointer}
+.artrow button.right{background:var(--ok);color:#062312;border-color:var(--ok)}
+.artrow button.wrong{background:#ff5d6c;color:#2a0409;border-color:#ff5d6c}
+.artrow button:disabled{cursor:default;opacity:.95}
+.fcgrade{display:flex;gap:12px;margin-top:18px;max-width:520px}
+.fcgrade button{flex:1;padding:13px 0;border:0;border-radius:12px;font-size:15px;font-weight:700;cursor:pointer}
+.fcgrade .good{background:var(--ok);color:#062312}
+.fcgrade .bad{background:#ff5d6c;color:#2a0409}
+@media(max-width:760px){
+  .topbar{display:flex;padding-top:calc(12px + env(safe-area-inset-top))}
+  .sidebar{position:fixed;top:0;left:0;bottom:0;z-index:30;transform:translateX(-100%);transition:.22s;
+    padding-top:calc(18px + env(safe-area-inset-top))}
+  .sidebar.open{transform:none}
+  .content{padding:18px 16px calc(70px + env(safe-area-inset-bottom));max-width:none}
+  /* dim backdrop when the drawer is open */
+  .scrim{position:fixed;inset:0;background:rgba(0,0,0,.5);z-index:29;opacity:0;pointer-events:none;transition:.22s}
+  .scrim.show{opacity:1;pointer-events:auto}
+  /* comfortable tap targets */
+  .navitem{padding:14px 12px;font-size:16px}
+  .ghost{padding:9px 14px}
+  h2{font-size:19px}
+  .viewhead{align-items:center}
+  .flashcard{height:230px;max-width:none}
+  .fc-q{font-size:26px}
+  .fc-a{font-size:23px}
+  .artrow{width:100%}
+  .artrow button{flex:1;min-width:0;padding:13px 0}
+  .fcgrade{max-width:none}
+  .fcgrade button{padding:15px 0}
+  table.words td:first-child{width:42%}
+  .card{padding:14px 15px}
+}
