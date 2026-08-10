@@ -1,12 +1,14 @@
 #!/bin/bash
 # 部署工作台到 GitHub Pages。
-# 直接运行即可(remote origin 已配好, 含 token):
+# 直接运行即可(remote origin 已配好 SSH deploy key):
 #   bash ~/Desktop/Hermes/deploy/deploy.sh
 # 也可显式指定远端:
 #   GH_REPO=https://<TOKEN>@github.com/<user>/<repo>.git bash deploy.sh
 set -e
 cd /Users/xiaoqingpan/Desktop/Hermes/deploy
 GIT=/Users/xiaoqingpan/miniconda3/bin/git
+# 用专属 deploy key (无明文 token, 永不过期)
+export GIT_SSH_COMMAND="ssh -i $HOME/.ssh/workbench_deploy -o IdentitiesOnly=yes"
 
 # 用最新生成的单文件覆盖站点入口
 cp /Users/xiaoqingpan/Desktop/Hermes/workbench/workbench.html index.html
