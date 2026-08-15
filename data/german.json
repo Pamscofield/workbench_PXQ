@@ -1,69 +1,70 @@
 {
   "updated": "2026-08-15",
   "level": "A2",
-  "mix": "本地 · 耶拿 · 简易德语 · 全国",
+  "mix": "Jena lokal · Einfache Deutsch · National",
   "items": [
     {
       "source": "Jenaer Nachrichten",
-      "cat": "本地 · 耶拿",
-      "url": "https://www.jenaer-nachrichten.de/stadtleben/29562-endlich-wieder-freie-fahrt-zwischen-jena-und-isserstedt",
+      "cat": "Jena lokal",
+      "url": "https://www.jenaer-nachrichten.de/stadtleben/29575-buergerservice-jena-raetselhafter-gasalarm-in-tiefgarage",
       "date": "2026-08-15",
-      "de": "Pendler können seit dem heutigen Mittwoch wieder ohne Umwege zwischen Jena und Isserstedt unterwegs sein. Die B7 ist nach fünfeinhalb Wochen Vollsperrung früher als geplant freigegeben worden.",
-      "cn": "从本周三（今天）起，通勤者可以再次不绕路地往返于耶拿和伊瑟施泰特（Isserstedt）之间。B7 公路在全封闭五周半之后，比原计划提前恢复通行。",
+      "de": "Am Freitag kam es in der Tiefgarage des Jenaer Buergerdienstes zu einem Gasalarm. Die Feuerwehr und ein technisches Hilfskraft-Zug waren im Einsatz. Der Grund fuer den Alarm ist noch unklar.",
+      "cn": "周五（15日）在耶拿市民服务中心的地下停车场发生了气体警报。消防队和技术救援队出动了。警报原因尚不清楚。",
       "words": [
-        {"w": "Pendler", "m": "通勤者（der Pendler 阳性，复数 die Pendler）", "pl": "die Pendler"},
-        {"w": "seit dem heutigen Mittwoch", "m": "从本周三（今天）起（seit + 第三格；der Mittwoch 阳性；heutig 今天的）", "pl": "—", "note": "seit + Dativ für Zeitdauer (seit dem…)"},
-        {"w": "wieder", "m": "再次、又（时间副词）", "pl": "—"},
-        {"w": "ohne Umwege", "m": "不绕路（der Umweg 阳性，绕路，复数 die Umwege；ohne + 第四格）", "pl": "die Umwege", "note": "ohne + Akkusativ"},
-        {"w": "zwischen Jena und Isserstedt", "m": "在耶拿和伊瑟施泰特之间（zwischen + 第三格和第四格都可，此处表地点，介词后接第三格；Isserstedt 是专名，镇名）", "pl": "—"},
-        {"w": "unterwegs sein", "m": "在路上、在途中（固定短语；unterwegs 在途中）", "pl": "—"},
-        {"w": "Die B7", "m": "B7 公路（die Bundesstraße  federal highway；在德国用 B + 数字表示联邦公路）", "pl": "—"},
-        {"w": "nach fünfeinhalb Wochen", "m": "五周半之后（nach + 第三格；die Woche 阴性，复数 die Wochen；fünfeinhalb = fünf + einhalb）", "pl": "die Wochen", "note": "nach + Dativ für Zeit"},
-        {"w": "Vollsperrung", "m": "全封闭、全程封路（die Vollsperrung 阴性；voll 完全的 + Sperrung 封锁）", "pl": "die Vollsperrungen"},
-        {"w": "früher als geplant", "m": "比原计划提前（früher 更早的、提前；als 比；geplant 计划好的，形容词）", "pl": "—"},
-        {"w": "freigegeben worden", "m": "被解除（释放的被动表达；freigen(释放) + 词尾 -en 表被动完成，与 worden 搭配构成 Vorgangspassiv Vergangenheit）", "pl": "—", "note": "Vorgangspassiv: wurde freigegeben / ist freigegeben worden"}
+        {"w": "Am Freitag", "m": "周五（der Freitag 男性，复数 die Freitage；am = an dem）", "pl": "die Freitage"},
+        {"w": "kam es zu", "m": "发生了（es = 形式主语；zu einem Gasalarm 来了一个气体警报；kommen zu + Dativ 表“发生……事情”）", "pl": "—", "note": "es kommt zu etwas = something happens / there is"},
+        {"w": "einem Gasalarm", "m": "气体警报（der Alarm 男性，警报；Gas 气体；Gasalarm 复合词；ein + Dativ 因前面有 zu）", "pl": "die Gasalarme"},
+        {"w": "der Tiefgarage", "m": "地下停车场（die Tiefgarage 女性，地下车库；Tief 深的 + Garage 车库；这里用第三格，因为在……里面）", "pl": "die Tiefgaren"},
+        {"w": "des Buergerdienstes", "m": "市民服务中心的（der Buergerdienst 男性，市民服务；des = 第三格属格，表示所属关系）", "pl": "die Buergerdienste"},
+        {"w": "die Feuerwehr", "m": "消防队（负冠词 die，女性名词；Feuer 火，Wehr 防御）", "pl": "—"},
+        {"w": "ein technisches Hilfskraft-Zug", "m": "技术救援队（der Zug 男性，此处指“一队/一组”；technisch 技术的；Hilfskraft 救援人员/援助力量；复合词）", "pl": "die Zuege"},
+        {"w": "war im Einsatz", "m": "正在执行任务/出动了（sein + im + 第四格；im Einsatz sein = to be in action / deployed）", "pl": "—"},
+        {"w": "Der Grund", "m": "原因（der Grund 男性，复数 die Gruende；Grund  grounds/reason）", "pl": "die Gruende"},
+        {"w": "fuer den Alarm", "m": "警报的原因（fuer = für，第四格介词；der Alarm 男性）", "pl": "—"},
+        {"w": "ist noch unklar", "m": "仍不清楚（noch 还/仍然；unklar 不清楚的，形容词）", "pl": "—"}
       ],
-      "grammar": "Präsens + Vergangenheit kombiniert: 'sind ... freigegeben worden' ist Vorgangspassiv im Perfekt (sein + Partizip II + worden). 'seit + Dativ' drückt einen Zeitraum ab (seit dem heutigen Mittwoch = from this past Wednesday on). 'nach + Dativ' für Zeitangaben (nach fünfeinhalb Wochen). 'ohne + Akkusativ' (ohne Umwege). Wichtige lokale Infrastruktur-Nachrichten für Jena — Pendler-Bezug macht die Vokabeln praktisch."
+      "grammar": "kommen zu + Dativ: 'es kam zu einem Gasalarm' = there was a gas alarm（发生某事的固定表达，其中 es 是形式主语）。属格第三格: 'des Buergerdienstes' = of the citizen service（名词间所属關係的古典表示法，現代口語多用 von + Dativ，但書面新聞仍常用）；注意 der Buergerdienst 是陽性。sein im Einsatz: 固定短語表示“執行任務/出動”，im = in dem（第三格），Einsatz 男性。 noch unklar: 形容詞作表語，不變格。"
     },
     {
-      "source": "MDR Nachrichten in Leichter Sprache",
-      "cat": "简易德语",
-      "url": "https://www.mdr.de/nachrichten-leicht/leichte-sprache-waldbrand-plauen-thueringen-vogtland-100.html",
+      "source": "nachrichtenleicht (DLF)",
+      "cat": "Einfache Deutsch",
+      "url": "https://www.nachrichtenleicht.de/recht-reparatur-100.html",
       "date": "2026-08-15",
-      "de": "Es ist schon ein großes Wald-Stück zerstört worden. Das Wald-Stück ist ungefähr so groß wie 10 Fußball-Felder.",
-      "cn": "一个大面积的森林地块已经被毁坏。大约有 10 个足球场那么大。",
+      "de": "Ab jetzt muessen Hersteller mehr kaputte Elektro-Geraete reparieren. Das steht in einem Gesetz. Das Gesetz nennt man 'Recht auf Reparatur'.",
+      "cn": "从现在起，厂商必须修复更多损坏的电器。这写在一项法律里。这项法律叫做“维修权”。",
       "words": [
-        {"w": "Es ist ... zerstört worden", "m": "已经被毁坏（es 虚主语/形式主语，白话语法里常用；zerstört 毁坏的，Partizip II；sein + Partizip II + worden 表示被动完成）", "pl": "—", "note": "Vorgangspassiv Perfekt: ist ... worden"},
-        {"w": "schon", "m": "已经（时间副词）", "pl": "—"},
-        {"w": "ein großes Wald-Stück", "m": "一个大的森林地块（das Wald-Stück 中性，Stück 小块，片段；groß 大的，形容词，中性单数结束：-es）", "pl": "die Wald-Stücke"},
-        {"w": "zerstört", "m": "毁坏的（Partizip II von zerstören 毁坏，动词）", "pl": "—"},
-        {"w": "ungefähr", "m": "大约、大体上（副词）", "pl": "—"},
-        {"w": "so groß wie", "m": "像……一样大（so ... wie 固定比较结构，表示“与……同样……”）", "pl": "—"},
-        {"w": "10 Fußball-Felder", "m": "10 个足球场（das Fußball-Feld 中性，复数 die Fußball-Felder；Fußball 足球，Feld 田野、场地）", "pl": "die Fußball-Felder"}
+        {"w": "Ab jetzt", "m": "从现在起（ab + Dativ 表起点；jetzt = 现在）", "pl": "—", "note": "ab jetzt = from now on"},
+        {"w": "muessen", "m": "必须（mussen 情态动词，复数/第一第二人称单数型；这里主语是 Hersteller 复数）", "pl": "—"},
+        {"w": "Hersteller", "m": "厂商、制造商（der Hersteller 男性，复数 die Hersteller；herstellen 制造/生产）", "pl": "die Hersteller"},
+        {"w": "mehr kaputte Elektro-Geraete", "m": "更多损坏的电器（mehr 更多；kaputt 坏的/损坏的，形容词；die Elektro-Geraete 电器，复数；kaputte 是 형용사复数弱变化 -e）", "pl": "die Elektro-Geraete"},
+        {"w": "reparieren", "m": "修复（动词，不定式；英语 repair）", "pl": "—"},
+        {"w": "Das steht in einem Gesetz", "m": "这写在一项法律里（stehen + Dativ 表“位于/记载于”；das = dieses Gesetz；in einem Gesetz = in einem Gesetz（第三格，因为表示位于内部））", "pl": "—"},
+        {"w": "nennt man", "m": "人们称之为（man = 人们/一般主语；nennen 叫做/命名；man nennt = people call）", "pl": "—"},
+        {"w": "Recht auf Reparatur", "m": "维修权（das Recht 法律权利/权利，中性；auf + Dativ？实为固定搭配 Recht auf + Akk？此处联合结构；Reparatur 修复/维修，女性）", "pl": "—", "note": "Recht auf + Akkusativ = right to (do something)"}
       ],
-      "grammar": "Leichte-Sprache-Stil: kurze Sätze, wenige Satzteile. 'Es ist ... worden' ist Vorgangspassiv im Perfekt — typisch für Nachrichten. 'so groß wie' ist eine einfache Vergleichs-struktur (so ... wie) ohne Konjugation des Adjektivs. 'ungefähr' = ungefähr（大约）是常见情况下副词。Klare A2-Struktur mit Passiv-Einstieg."
+      "grammar": "情態動詞 mussen: 'Hersteller muessen reparieren' = 主詞複數配 mussen（複數形式），實義動詞 reparieren 放句末不定式。介詞 in + Dativ（介於內部）：'in einem Gesetz' = in a law（法律之中）。にも関わらず、英語からは 'in a law' となるが、ドイツ語では Dativ。接続詞構造 'Das Gesetz, das man nennt...' 的相對從句説明性名詞（被省略），這裡改用主句 'Das Gesetz nennt man...'。 'Recht auf Reparatur': auf + Akkusativ 在此为固定法律用語（權利指向的動作），對應英語 right to repair。"
     },
     {
       "source": "tagesschau",
-      "cat": "全国新闻",
-      "url": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-nrw-eifel-102.html",
+      "cat": "National",
+      "url": "https://www.tagesschau.de/inland/niedrigwasser-folgen-bahn-preise-100.html",
       "date": "2026-08-15",
-      "de": "Seit Tagen brennt es im Hürtgenwald in der Eifel. Auch in der Nacht gingen die Löscharbeiten weiter. Die Feuerwehr musste ihre Einsatzzentrale verlegen - der Wind hatte sich gedreht.",
-      "cn": "几天来，胡尔特根森林（Hürtgenwald）在埃菲尔（Eifel）地区一直在燃烧。夜里灭火工作也在继续。消防队不得不迁移他们的作战指挥中心——因为风向变了。",
+      "de": "Der Rhein hat wenig Wasser. Die Schifffahrt ist stark eingeschraenkt. Die Deutsche Bahn will alte Gueterwaggons wieder nutzen, um mehr Guter auf die Schiene zu verlegen.",
+      "cn": "莱茵河水位很低。航运受到严重限制。德国铁路计划重新使用旧货运车厢，把更多货物转运到铁路上。",
       "words": [
-        {"w": "Seit Tagen", "m": "好几天以来（der Tag 阳性，复数 die Tage；seit + 第三格表时间持续）", "pl": "die Tage", "note": "seit + Dativ für Dauer"},
-        {"w": "brennt es", "m": "它在燃烧（es 指 fires/火，中性代词在此为形式/环境主语；brennen 燃烧，动词）", "pl": "—"},
-        {"w": "im Hürtgenwald", "m": "在胡尔特根森林（der Hürtgenwald 阳性，德国西部的一个大森林名称，专有名词；in + 第三格表示地点 Static）", "pl": "—"},
-        {"w": "in der Eifel", "m": "在埃菲尔地区（die Eifel 阴性，德国西部山地地区名，专有名词；in + 第三格表地点，当“位于内部”时用第三格）", "pl": "—"},
-        {"w": "Auch in der Nacht", "m": "夜里也（die Nacht 阴性，名词，复数 die Nächte；in + 第三格指示时间点“在夜里”）", "pl": "die Nächte"},
-        {"w": "gingen ... weiter", "m": "继续进行（gehen 的过去时单数纯过去Gangen形式，继续往前推进；weiter 继续地、进一步）", "pl": "—"},
-        {"w": "die Löscharbeiten", "m": "灭火作业（die Löscharbeit 阴性，复数 die Löscharbeiten；löschen 扑灭，arbeit 工作，合成词）", "pl": "die Löscharbeiten"},
-        {"w": "Die Feuerwehr", "m": "消防队（die Feuerwehr 阴性，名词；Feuer 火，Wehrt/wehr 防御，合起来就是“灭火的防御队伍”）", "pl": "—"},
-        {"w": "musste ... verlegen", "m": "不得不迁移（müssen 的过去时单数形式 muss 的过去musste；verlegen 迁移、搬动，动词，Einsatzstützpunkt 等技术场所迁移）", "pl": "—"},
-        {"w": "ihre Einsatzzentrale", "m": "他们的作战指挥中心（die Zentrale 阴性，中心；Einsatz 派遣出动、作战行动；Zentrale 中心，合成词）", "pl": "die Einsatzzentralen"},
-        {"w": "der Wind hatte sich gedreht", "m": "风已经转向了（der Wind 阳性，复数 die Winde；sich drehen 旋转、转向，反身动词；Plusquamperfekt 过去完成时：hatte gedreht）", "pl": "die Winde", "note": "Plusquamperfekt (hatte sich gedreht) 表示“发生在另一个过去动作之前”"}
+        {"w": "Der Rhein", "m": "莱茵河（der Rhein 男性，德国最长的河流名称）", "pl": "—"},
+        {"w": "hat wenig Wasser", "m": "水位很低/水很少（wenig 少的；Wasser 水，中性）", "pl": "—"},
+        {"w": "Die Schifffahrt", "m": "航运/水上运输（die Schifffahrt 女性；Schiff 船 + Fahrt 旅程/行程）", "pl": "—"},
+        {"w": "ist stark eingeschraenkt", "m": "受到严重限制（stark 强烈地/严重地；eingeschraenkt 是 einschraenken 限制的过去分词，构成被动完成 'ist ... eingeschraenkt worden' 的简略）", "pl": "—", "note": "eingeschraenkt = restricted (Partizip II)"},
+        {"w": "Die Deutsche Bahn", "m": "德国铁路（die Deutsche Bahn 女性，德国国家铁路公司简称 DB）", "pl": "—"},
+        {"w": "will", "m": "计划/想要（wollen 的第三人称单数现在时形式；这里表示“打算、计划”而非单纯“想要”）", "pl": "—"},
+        {"w": "alte Gueterwaggons", "m": "旧货运车厢（der Gueterwaggon 男性，货运车箱/货车辆；alt 旧的，复数 alte；Gueter 货物 + Waggon 车厢）", "pl": "die Gueterwaggons"},
+        {"w": "wieder nutzen", "m": "再次使用（wieder 再次；nutzen 使用，动词不定式）", "pl": "—"},
+        {"w": "um ... zu verlegen", "m": "为了转运（um ... zu = 目的结构，相当于“为了……”；verlegen 迁移/转运/布置，此处指把货物从水路转到铁路）", "pl": "—", "note": "um ... zu + Infinitiv = in order to ..."},
+        {"w": "mehr Guter", "m": "更多货物（mehr 更多；die Gueter 货物，复数，通常不数）", "pl": "—"},
+        {"w": "auf die Schiene", "m": "到轨道/铁路上（auf + 第四格，因为是方向/移动指向的目标；die Schiene 女性，轨道/铁路）", "pl": "die Schienen", "note": "auf + Akkusativ for direction (movement onto the rails)"}
       ],
-      "grammar": "Zeitliche Abfolge mit Past-Tense-Mix: Präsens (brennt), Präteritum (gingen, musste), Plusquamperfekt (hatte sich gedreht). 'seit + Dativ' und 'in + Dativ' für Zeit/Lokal. 'weitergehen' als Trennbare-Verben-Erweiterung (gingen weiter) — die Doppelung des Ort-Zeit-Gefühls. 'musste verlegen' zeigt Modal-Präteritum + Infinitiv (müssen in der Vergangenheit). Landschaft + Waldbrand-Nachricht gibt lokale/geografische A2-Einordnung (Eifel, Hürtgenwald)."
+      "grammar": "被动完成簡化表达: 'ist eingeschraenkt' 實際是 'ist ... eingeschraenkt worden'（Vorgangspassiv Perfekt）的簡略新聞體， gebraucht ohne 'worden' 在報導裡很常見。情態動作 'will ... nutzen': wollen 表計劃/意圖（not just desire），搭配不定式放在句末。目的結構 'um ... zu + Infinitiv': 'um mehr Guter auf die Schiene zu verlegen' = in order to shift more goods onto the rails（目的從句替代結構）。介詞方向用法: 'auf die Schiene' 用第四格，因為是移動的目標方向。生態/物流主題對 A2 實用——河流、運輸、貨運。"
     }
   ]
 }
