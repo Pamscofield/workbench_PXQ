@@ -1,0 +1,21 @@
+{
+  "mix_rule": {
+    "per_run": "3-4 items, from at least 3 different sources",
+    "must_include": [
+      "at least 1 local (category contains 耶拿)",
+      "at least 1 easy German (level=easy)"
+    ],
+    "rest_from": ["tagesschau", "ndr", "hessenschau", "rbb", "zdf"]
+  },
+  "sources": [
+    {"id": "otz-jena", "name": "OTZ Jena", "cat": "耶拿本地", "level": "normal", "url": "https://www.otz.de/lokales/jena/"},
+    {"id": "jenaer-nachrichten", "name": "Jenaer Nachrichten", "cat": "耶拿本地", "level": "normal", "url": "https://www.jenaer-nachrichten.de/"},
+    {"id": "nachrichtenleicht", "name": "nachrichtenleicht (DLF)", "cat": "简易德语", "level": "easy", "url": "https://www.nachrichtenleicht.de/"},
+    {"id": "mdr-nachrichtenleicht", "name": "MDR Nachrichten in Leichter Sprache", "cat": "简易德语", "level": "easy", "url": "https://www.mdr.de/nachrichten-leicht/index.html"},
+    {"id": "tagesschau", "name": "tagesschau", "cat": "全国新闻", "level": "normal", "url": "https://www.tagesschau.de/"},
+    {"id": "ndr", "name": "NDR", "cat": "地区新闻", "level": "normal", "url": "https://www.ndr.de/nachrichten/"},
+    {"id": "hessenschau", "name": "hessenschau", "cat": "地区新闻", "level": "normal", "url": "https://www.hessenschau.de/"},
+    {"id": "rbb", "name": "rbb24", "cat": "地区新闻", "level": "normal", "url": "https://www.rbb24.de/"},
+    {"id": "zdf", "name": "ZDF heute", "cat": "全国新闻", "level": "normal", "url": "https://www.zdf.de/nachrichten"}
+  ]
+}

@@ -1,17 +1,26 @@
 #!/bin/bash
 # 部署工作台到 GitHub Pages。
-# 直接运行即可(remote origin 已配好 SSH deploy key):
+# 直接运行即可(remote origin 已配好 SSH deploy key, 永不过期, 无明文 token):
 #   bash ~/Desktop/Hermes/deploy/deploy.sh
 # 也可显式指定远端:
 #   GH_REPO=https://<TOKEN>@github.com/<user>/<repo>.git bash deploy.sh
 set -e
-cd /Users/xiaoqingpan/Desktop/Hermes/deploy
+SRC=/Users/xiaoqingpan/Desktop/Hermes/workbench
+DST=/Users/xiaoqingpan/Desktop/Hermes/deploy
+cd "$DST"
 GIT=/Users/xiaoqingpan/miniconda3/bin/git
 # 用专属 deploy key (无明文 token, 永不过期)
 export GIT_SSH_COMMAND="ssh -i $HOME/.ssh/workbench_deploy -o IdentitiesOnly=yes"
 
-# 用最新生成的单文件覆盖站点入口
-cp /Users/xiaoqingpan/Desktop/Hermes/workbench/workbench.html index.html
+# 把能完整运行的站点文件全部同步到 deploy/ (多文件版: index.html + app.js + style.css + data/)
+# 注意: 不是只推一个单文件 html —— 单文件外壳仍运行时 fetch('data/*.json'),
+# 所以必须连 data/ 与 app.js 一起推上去, 否则手机端 fetch 404 导致空白/不更新。
+rm -rf "$DST/data" "$DST/app.js" "$DST/style.css" "$DST/index.html"
+cp "$SRC/index.html" "$DST/index.html"
+cp "$SRC/app.js"    "$DST/app.js"
+cp "$SRC/style.css" "$DST/style.css"
+mkdir -p "$DST/data"
+cp "$SRC/data/"*.json "$DST/data/"
 
 # 确保 git 仓库已初始化
 if [ ! -d .git ]; then

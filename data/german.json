@@ -1,0 +1,69 @@
+{
+  "updated": "2026-08-15",
+  "level": "A2",
+  "mix": "本地 · 耶拿 · 简易德语 · 全国",
+  "items": [
+    {
+      "source": "Jenaer Nachrichten",
+      "cat": "本地 · 耶拿",
+      "url": "https://www.jenaer-nachrichten.de/stadtleben/29562-endlich-wieder-freie-fahrt-zwischen-jena-und-isserstedt",
+      "date": "2026-08-15",
+      "de": "Pendler können seit dem heutigen Mittwoch wieder ohne Umwege zwischen Jena und Isserstedt unterwegs sein. Die B7 ist nach fünfeinhalb Wochen Vollsperrung früher als geplant freigegeben worden.",
+      "cn": "从本周三（今天）起，通勤者可以再次不绕路地往返于耶拿和伊瑟施泰特（Isserstedt）之间。B7 公路在全封闭五周半之后，比原计划提前恢复通行。",
+      "words": [
+        {"w": "Pendler", "m": "通勤者（der Pendler 阳性，复数 die Pendler）", "pl": "die Pendler"},
+        {"w": "seit dem heutigen Mittwoch", "m": "从本周三（今天）起（seit + 第三格；der Mittwoch 阳性；heutig 今天的）", "pl": "—", "note": "seit + Dativ für Zeitdauer (seit dem…)"},
+        {"w": "wieder", "m": "再次、又（时间副词）", "pl": "—"},
+        {"w": "ohne Umwege", "m": "不绕路（der Umweg 阳性，绕路，复数 die Umwege；ohne + 第四格）", "pl": "die Umwege", "note": "ohne + Akkusativ"},
+        {"w": "zwischen Jena und Isserstedt", "m": "在耶拿和伊瑟施泰特之间（zwischen + 第三格和第四格都可，此处表地点，介词后接第三格；Isserstedt 是专名，镇名）", "pl": "—"},
+        {"w": "unterwegs sein", "m": "在路上、在途中（固定短语；unterwegs 在途中）", "pl": "—"},
+        {"w": "Die B7", "m": "B7 公路（die Bundesstraße  federal highway；在德国用 B + 数字表示联邦公路）", "pl": "—"},
+        {"w": "nach fünfeinhalb Wochen", "m": "五周半之后（nach + 第三格；die Woche 阴性，复数 die Wochen；fünfeinhalb = fünf + einhalb）", "pl": "die Wochen", "note": "nach + Dativ für Zeit"},
+        {"w": "Vollsperrung", "m": "全封闭、全程封路（die Vollsperrung 阴性；voll 完全的 + Sperrung 封锁）", "pl": "die Vollsperrungen"},
+        {"w": "früher als geplant", "m": "比原计划提前（früher 更早的、提前；als 比；geplant 计划好的，形容词）", "pl": "—"},
+        {"w": "freigegeben worden", "m": "被解除（释放的被动表达；freigen(释放) + 词尾 -en 表被动完成，与 worden 搭配构成 Vorgangspassiv Vergangenheit）", "pl": "—", "note": "Vorgangspassiv: wurde freigegeben / ist freigegeben worden"}
+      ],
+      "grammar": "Präsens + Vergangenheit kombiniert: 'sind ... freigegeben worden' ist Vorgangspassiv im Perfekt (sein + Partizip II + worden). 'seit + Dativ' drückt einen Zeitraum ab (seit dem heutigen Mittwoch = from this past Wednesday on). 'nach + Dativ' für Zeitangaben (nach fünfeinhalb Wochen). 'ohne + Akkusativ' (ohne Umwege). Wichtige lokale Infrastruktur-Nachrichten für Jena — Pendler-Bezug macht die Vokabeln praktisch."
+    },
+    {
+      "source": "MDR Nachrichten in Leichter Sprache",
+      "cat": "简易德语",
+      "url": "https://www.mdr.de/nachrichten-leicht/leichte-sprache-waldbrand-plauen-thueringen-vogtland-100.html",
+      "date": "2026-08-15",
+      "de": "Es ist schon ein großes Wald-Stück zerstört worden. Das Wald-Stück ist ungefähr so groß wie 10 Fußball-Felder.",
+      "cn": "一个大面积的森林地块已经被毁坏。大约有 10 个足球场那么大。",
+      "words": [
+        {"w": "Es ist ... zerstört worden", "m": "已经被毁坏（es 虚主语/形式主语，白话语法里常用；zerstört 毁坏的，Partizip II；sein + Partizip II + worden 表示被动完成）", "pl": "—", "note": "Vorgangspassiv Perfekt: ist ... worden"},
+        {"w": "schon", "m": "已经（时间副词）", "pl": "—"},
+        {"w": "ein großes Wald-Stück", "m": "一个大的森林地块（das Wald-Stück 中性，Stück 小块，片段；groß 大的，形容词，中性单数结束：-es）", "pl": "die Wald-Stücke"},
+        {"w": "zerstört", "m": "毁坏的（Partizip II von zerstören 毁坏，动词）", "pl": "—"},
+        {"w": "ungefähr", "m": "大约、大体上（副词）", "pl": "—"},
+        {"w": "so groß wie", "m": "像……一样大（so ... wie 固定比较结构，表示“与……同样……”）", "pl": "—"},
+        {"w": "10 Fußball-Felder", "m": "10 个足球场（das Fußball-Feld 中性，复数 die Fußball-Felder；Fußball 足球，Feld 田野、场地）", "pl": "die Fußball-Felder"}
+      ],
+      "grammar": "Leichte-Sprache-Stil: kurze Sätze, wenige Satzteile. 'Es ist ... worden' ist Vorgangspassiv im Perfekt — typisch für Nachrichten. 'so groß wie' ist eine einfache Vergleichs-struktur (so ... wie) ohne Konjugation des Adjektivs. 'ungefähr' = ungefähr（大约）是常见情况下副词。Klare A2-Struktur mit Passiv-Einstieg."
+    },
+    {
+      "source": "tagesschau",
+      "cat": "全国新闻",
+      "url": "https://www.tagesschau.de/inland/gesellschaft/waldbrand-nrw-eifel-102.html",
+      "date": "2026-08-15",
+      "de": "Seit Tagen brennt es im Hürtgenwald in der Eifel. Auch in der Nacht gingen die Löscharbeiten weiter. Die Feuerwehr musste ihre Einsatzzentrale verlegen - der Wind hatte sich gedreht.",
+      "cn": "几天来，胡尔特根森林（Hürtgenwald）在埃菲尔（Eifel）地区一直在燃烧。夜里灭火工作也在继续。消防队不得不迁移他们的作战指挥中心——因为风向变了。",
+      "words": [
+        {"w": "Seit Tagen", "m": "好几天以来（der Tag 阳性，复数 die Tage；seit + 第三格表时间持续）", "pl": "die Tage", "note": "seit + Dativ für Dauer"},
+        {"w": "brennt es", "m": "它在燃烧（es 指 fires/火，中性代词在此为形式/环境主语；brennen 燃烧，动词）", "pl": "—"},
+        {"w": "im Hürtgenwald", "m": "在胡尔特根森林（der Hürtgenwald 阳性，德国西部的一个大森林名称，专有名词；in + 第三格表示地点 Static）", "pl": "—"},
+        {"w": "in der Eifel", "m": "在埃菲尔地区（die Eifel 阴性，德国西部山地地区名，专有名词；in + 第三格表地点，当“位于内部”时用第三格）", "pl": "—"},
+        {"w": "Auch in der Nacht", "m": "夜里也（die Nacht 阴性，名词，复数 die Nächte；in + 第三格指示时间点“在夜里”）", "pl": "die Nächte"},
+        {"w": "gingen ... weiter", "m": "继续进行（gehen 的过去时单数纯过去Gangen形式，继续往前推进；weiter 继续地、进一步）", "pl": "—"},
+        {"w": "die Löscharbeiten", "m": "灭火作业（die Löscharbeit 阴性，复数 die Löscharbeiten；löschen 扑灭，arbeit 工作，合成词）", "pl": "die Löscharbeiten"},
+        {"w": "Die Feuerwehr", "m": "消防队（die Feuerwehr 阴性，名词；Feuer 火，Wehrt/wehr 防御，合起来就是“灭火的防御队伍”）", "pl": "—"},
+        {"w": "musste ... verlegen", "m": "不得不迁移（müssen 的过去时单数形式 muss 的过去musste；verlegen 迁移、搬动，动词，Einsatzstützpunkt 等技术场所迁移）", "pl": "—"},
+        {"w": "ihre Einsatzzentrale", "m": "他们的作战指挥中心（die Zentrale 阴性，中心；Einsatz 派遣出动、作战行动；Zentrale 中心，合成词）", "pl": "die Einsatzzentralen"},
+        {"w": "der Wind hatte sich gedreht", "m": "风已经转向了（der Wind 阳性，复数 die Winde；sich drehen 旋转、转向，反身动词；Plusquamperfekt 过去完成时：hatte gedreht）", "pl": "die Winde", "note": "Plusquamperfekt (hatte sich gedreht) 表示“发生在另一个过去动作之前”"}
+      ],
+      "grammar": "Zeitliche Abfolge mit Past-Tense-Mix: Präsens (brennt), Präteritum (gingen, musste), Plusquamperfekt (hatte sich gedreht). 'seit + Dativ' und 'in + Dativ' für Zeit/Lokal. 'weitergehen' als Trennbare-Verben-Erweiterung (gingen weiter) — die Doppelung des Ort-Zeit-Gefühls. 'musste verlegen' zeigt Modal-Präteritum + Infinitiv (müssen in der Vergangenheit). Landschaft + Waldbrand-Nachricht gibt lokale/geografische A2-Einordnung (Eifel, Hürtgenwald)."
+    }
+  ]
+}

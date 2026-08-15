@@ -1,0 +1,69 @@
+{
+  "updated": "2026-08-15",
+  "items": [
+    {
+      "title": "Anthropic, OpenAI, Google 的产品路线在 2026 年 8 月愈加分化",
+      "url": "https://aiconference.london/how-anthropic-openai-and-google-compare-in-2026-august-2026-20260813-12",
+      "summary": "2026 年 8 月，三家战略越走越不同：OpenAI 发布 GPT-5.5 Omni，走实时多模态 + 嵌入式助手路线；Google 把 Gemini 2.0 Pro 绑定到 Project Starline 的高保真远程通讯；Anthropic 主攻可信度与透明度，推出 Claude 3.1 系列，强调“推理透明”。说明 AI 行业不再是单一“模型比拼”，而是按场景走不同产品路线。\n\n对求职/学习的影响：若关注 AI 产品方向，需分清“多模态嵌入”（OpenAI）、“企业／高保真工具”（Google）、“安全／可解释性”（Anthropic）这三条路。",
+      "date": "2026-08-15",
+      "source": "AI World Congress 2026 roundup",
+      "tag": "模型对比 · 产品路线"
+    },
+    {
+      "title": "Anthropic 向美国政府出售 Claude，仅收 1 美元",
+      "url": "https://www.facebook.com/cnbc/videos/anthropic-is-giving-claude-to-the-us-government-for-1-as-ai-companies-try-to-win/1487096156060999/",
+      "summary": "Anthropic 和 OpenAI 都宣布把自家 AI 产品卖给美国政府，价格仅为 1 美元。目的是抢占政府市场入口，让未来的持续合同更容易成交。\n\n对求职/学习的影响：AI 公司“低价进政府、长期赚政府”是游戏规则。了解这一模式有助于看懂大型 AI 合同与新闻里的“政府采购”buzz。",
+      "date": "2026-08-15",
+      "source": "CNBC",
+      "tag": "政府采购 · 市场策略"
+    },
+    {
+      "title": "Google 公开 Gemini 2.0 Pro 与 Project Starline 的结合细节",
+      "url": "https://ai.googleblog.com/",
+      "summary": "Google 在 AI 官方博客更新了 Gemini 2.0 Pro 如何与 Project Starline（下一代全息通讯系统）结合的细节。Gemini 的一部分算力专门用于空间推理与逼真渲染，目标是让远程协作更接近面对面。\n\n对求职/学习的影响：端侧＋云侧的“多模态 + 实时渲染”正在成为高端 AI 产品的重要方向。若对 AR、远程会议、数字孪生感兴趣，这是离前线最近的信号。",
+      "date": "2026-08-15",
+      "source": "Google AI Blog",
+      "tag": "多模态 · 远程通讯"
+    },
+    {
+      "title": "Anthropic 公开“Corrigible Scaling”：让人类监督不被智能体超越",
+      "url": "https://www.nature.com/subjects/machine-learning",
+      "summary": "Anthropic 在 8 月初发表了一篇关于“Corrigible Scaling”的论文，研究如何保证即使模型智能快速增长，人类的监督和纠错机制依然有效。这直接回应了“失去对超智能体控制”的担忧，也是 Anthropic 长期的安全叙事的一部分。\n\n对求职/学习的影响：AI 安全不再只是理念，出现了具体的技术路线（可纠错扩展）。若对 AI 对齐（alignment）、可解释性、安全评估感兴趣，这是近期最硬核的信号之一。",
+      "date": "2026-08-15",
+      "source": "Nature / Anthropic Research",
+      "tag": "AI 安全 · 可解释性"
+    },
+    {
+      "title": "OpenAI Superalignment 进展：小模型监督大模型的突破",
+      "url": "https://openai.com/research",
+      "summary": "据传出的一份内部进展报告，OpenAI 的 Superalignment 团队在“用小模型解读并监督更大、更复杂模型的内部状态”方面取得了进展。这是实现可扩展监督（scalable oversight）的关键一步。\n\n对求职/学习的影响：监督机制本身也在用 AI 自动化——这是 AI 安全工程里很实际的方向：用更小模型来审查更大模型。",
+      "date": "2026-08-15",
+      "source": "OpenAI Research",
+      "tag": "监督 · 对齐研究"
+    },
+    {
+      "title": "EU AI Act 首批数百万欧元罚款落地",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "summary": "2026 年 7 月，欧盟人工智能法案（EU AI Act）已经开始执行，首批针对“高风险 AI 系统合规失败”的数百万欧元罚款已经落地。这迫使前沿模型实验室把合规工程当成核心运营成本，而不再只是一个理论任务。\n\n对求职/学习的影响：合规（compliance）、风险评估、文档与模型卡（model cards）都是实际岗位。若在欧洲找 AI 工作，这条法规直接影响企业需求。",
+      "date": "2026-08-15",
+      "source": "European Commission / EU AI Act",
+      "tag": "监管 · 合规"
+    },
+    {
+      "title": "Google 发布 TPU v7：训练能效提升约 40%",
+      "url": "https://www.technologyreview.com/topic/artificial-intelligence/",
+      "summary": "Google 宣布其下一代张量处理器 TPU v7 正式可用，训练大模型时每瓦性能提升约 40%。Google 继续掌握自研芯片 + 软件栈的完整优势，能在芯片和模型设计上更紧密协同。\n\n对求职/学习的影响：硬件 + AI 的协同设计（co-design）是大型 AI 公司的核心竞争力。若对基础设施、芯片＋模型部署感兴趣，这是一个清晰信号。",
+      "date": "2026-08-15",
+      "source": "MIT Technology Review",
+      "tag": "硬件 · 训练效率"
+    },
+    {
+      "title": "Anthropic 与 Oracle 达成新战略合作，扩大算力渠道",
+      "url": "https://www.oracle.com/artificial-intelligence/",
+      "summary": "Anthropic 在 2026 年 8 月宣布与 Oracle Cloud Infrastructure（OCI）建立新的战略合作关系，利用 OCI 的高性能裸金属集群运行部分可解释性研究工作负载。这是 Anthropic 继续走“多云 + 不依赖单一供应商”策略。\n\n对求职/学习的影响：大型 AI 公司的算力策略会影响招聘（云架构、异构集群、多云部署经验）。了解不同云厂商在 AI 基础设施上的角色，有助于看懂行业动态。",
+      "date": "2026-08-15",
+      "source": "Oracle / Anthropic",
+      "tag": "算力 · 多云策略"
+    }
+  ]
+}

@@ -1,0 +1,1221 @@
+{
+  "cards": [
+    {
+      "de": "Bundesregierung",
+      "art": "die",
+      "pl": "Bundesregierungen",
+      "en": "federal government",
+      "cn": "联邦政府",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "überlegen",
+      "art": null,
+      "en": "to consider / think about",
+      "cn": "考虑",
+      "note": "ueberlegen = to consider; here: 'die Regierung ueberlegt' (she considers)",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Wehrpflicht",
+      "art": "die",
+      "pl": "Wehrpflichten",
+      "en": "conscription / military service obligation",
+      "cn": "义务兵役制",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "wieder",
+      "art": null,
+      "en": "again",
+      "cn": "再次",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "einführen",
+      "art": null,
+      "en": "to introduce",
+      "cn": "引入、实行",
+      "note": "trennbar: fuehrt ... ein",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Mann",
+      "art": "der",
+      "pl": "Maenner",
+      "en": "man",
+      "cn": "男子",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "müssen",
+      "art": null,
+      "en": "must (modal verb)",
+      "cn": "必须",
+      "note": "modal verb: muessen + Infinitiv am Ende",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "vielleicht",
+      "art": null,
+      "en": "maybe",
+      "cn": "也许",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Armee",
+      "art": "die",
+      "pl": "Armeen",
+      "en": "army",
+      "cn": "军队",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "wer",
+      "art": null,
+      "en": "who / whoever",
+      "cn": "谁；那些人",
+      "note": "Relativpronomen; leitet Nebensatz ein, Verb ans Ende",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "wollen",
+      "art": null,
+      "en": "to want (modal verb)",
+      "cn": "想",
+      "note": "modal verb",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "können",
+      "art": null,
+      "en": "can (modal verb)",
+      "cn": "可以",
+      "note": "modal verb",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Zivildienst",
+      "art": "der",
+      "pl": "Zivildienste",
+      "en": "civilian service",
+      "cn": "民事服役",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "krank",
+      "art": null,
+      "en": "sick",
+      "cn": "生病的",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Mensch",
+      "art": "der",
+      "pl": "Menschen",
+      "en": "person / human",
+      "cn": "人",
+      "note": "der Mensch (ein Mensch) -> Plural DIE Menschen!",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "pflegen",
+      "art": null,
+      "en": "to care for",
+      "cn": "护理、照顾",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "gewinnen",
+      "art": null,
+      "en": "to win",
+      "cn": "赢",
+      "note": "gewinnt / gewann / gewonnen (sein!)",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "gegen",
+      "art": null,
+      "en": "against",
+      "cn": "对阵",
+      "note": "Praeposition + Akkusativ",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Spieler",
+      "art": "der",
+      "pl": "Spieler",
+      "en": "player",
+      "cn": "球员",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "schießen",
+      "art": null,
+      "en": "to shoot / score",
+      "cn": "射门、打进",
+      "note": "schießt / schoss / geschossen",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Tor",
+      "art": "das",
+      "pl": "Tore",
+      "en": "goal",
+      "cn": "球门、进球",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Sonntag",
+      "art": "der",
+      "pl": "Sonntage",
+      "en": "Sunday",
+      "cn": "周日",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "spielen",
+      "art": null,
+      "en": "to play",
+      "cn": "比赛、玩",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Derby",
+      "art": "das",
+      "pl": "Derbys",
+      "en": "derby",
+      "cn": "德比战",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Schwimm-Europameisterschaft",
+      "art": "die",
+      "pl": "Schwimm-Europameisterschaften",
+      "en": "swimming European championship",
+      "cn": "游泳欧锦赛",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Gold",
+      "art": "das",
+      "pl": "—",
+      "en": "gold",
+      "cn": "金牌",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "schwimmen",
+      "art": null,
+      "en": "to swim",
+      "cn": "游泳",
+      "note": "schwimmt / schwamm / geschwommen (sein!)",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Kilometer",
+      "art": "der",
+      "pl": "Kilometer",
+      "en": "kilometer",
+      "cn": "公里",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Freiwasser",
+      "art": "das",
+      "pl": "—",
+      "en": "open water",
+      "cn": "公开水域",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "siegen",
+      "art": null,
+      "en": "to win / be victorious",
+      "cn": "获胜",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "auch",
+      "art": null,
+      "en": "also / too",
+      "cn": "也",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "holen",
+      "art": null,
+      "en": "to fetch / get",
+      "cn": "获得",
+      "note": "holt eine Medaille = wins a medal",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Bronzemedaille",
+      "art": "die",
+      "pl": "Bronzemedaillen",
+      "en": "bronze medal",
+      "cn": "铜牌",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Straßenbahn",
+      "art": "die",
+      "pl": "Straßenbahnen",
+      "en": "tram",
+      "cn": "有轨电车",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Produktion",
+      "art": "die",
+      "pl": "Produktionen",
+      "en": "production",
+      "cn": "生产",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Typ",
+      "art": "der",
+      "pl": "Typen",
+      "en": "type / model",
+      "cn": "型号",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Hersteller",
+      "art": "der",
+      "pl": "Hersteller",
+      "en": "manufacturer",
+      "cn": "制造商",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Bahn",
+      "art": "die",
+      "pl": "Bahnen",
+      "en": "train / railway",
+      "cn": "列车",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Platz",
+      "art": "der",
+      "pl": "Plätze",
+      "en": "space / seat",
+      "cn": "空间、座位",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Fahrgast",
+      "art": "der",
+      "pl": "Fahrgäste",
+      "en": "passenger",
+      "cn": "乘客",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Flughafen",
+      "art": "der",
+      "pl": "Flughäfen",
+      "en": "airport",
+      "cn": "机场",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Drohne",
+      "art": "die",
+      "pl": "Drohnen",
+      "en": "drone",
+      "cn": "无人机",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Sprengstoff",
+      "art": "der",
+      "pl": "—",
+      "en": "explosive (material)",
+      "cn": "炸药",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Mitarbeiter",
+      "art": "der",
+      "pl": "Mitarbeiter",
+      "en": "employee / staff member",
+      "cn": "员工",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Landebahn",
+      "art": "die",
+      "pl": "Landebahnen",
+      "en": "runway",
+      "cn": "跑道",
+      "note": "Start- und Landebahn = runway (复合词)",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Sicherheitsrat",
+      "art": "der",
+      "pl": "Sicherheitsräte",
+      "en": "security council",
+      "cn": "安全委员会",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Abwehr",
+      "art": "die",
+      "pl": "—",
+      "en": "defense / countering",
+      "cn": "防御",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Rhein",
+      "art": "der",
+      "pl": "—",
+      "en": "the Rhine (river)",
+      "cn": "莱茵河",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Wasser",
+      "art": "das",
+      "pl": "Wasser",
+      "en": "water",
+      "cn": "水",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Problem",
+      "art": "das",
+      "pl": "Probleme",
+      "en": "problem",
+      "cn": "问题",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Schiff",
+      "art": "das",
+      "pl": "Schiffe",
+      "en": "ship",
+      "cn": "船",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Transport",
+      "art": "der",
+      "pl": "Transporte",
+      "en": "transport",
+      "cn": "运输",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Verkehrsminister",
+      "art": "der",
+      "pl": "Verkehrsminister",
+      "en": "transport minister",
+      "cn": "交通部长",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Lösung",
+      "art": "die",
+      "pl": "Lösungen",
+      "en": "solution",
+      "cn": "解决办法",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Fluss",
+      "art": "der",
+      "pl": "Flüsse",
+      "en": "river",
+      "cn": "河流",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Meter",
+      "art": "der",
+      "pl": "Meter",
+      "en": "meter",
+      "cn": "米",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "bekommen",
+      "art": null,
+      "en": "to get / receive",
+      "cn": "得到、获得",
+      "note": "bekommt/bekam/bekommen (haben!) — 意思是'得到/获得'，不是 to become!",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "beginnen",
+      "art": null,
+      "en": "to begin",
+      "cn": "开始",
+      "note": "beginnt/begann/begonnen (haben!)",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "bieten",
+      "art": null,
+      "en": "to offer",
+      "cn": "提供",
+      "note": "bietet/bot/geboten (haben!)",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "finden",
+      "art": null,
+      "en": "to find",
+      "cn": "找到",
+      "note": "findet/fand/gefunden (haben!)",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "sprechen",
+      "art": null,
+      "en": "to speak / talk",
+      "cn": "说话、谈论",
+      "note": "spricht/sprach/gesprochen (haben!) — sprechen über + Akk. = talk about",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "beraten",
+      "art": null,
+      "en": "to deliberate / discuss",
+      "cn": "商议、讨论",
+      "note": "berät/beriet/beraten (haben!) — 不规则变元音 ä/ie",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Supermarkt",
+      "art": "der",
+      "pl": "Supermärkte",
+      "en": "supermarket",
+      "cn": "超市",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Stunde",
+      "art": "die",
+      "pl": "Stunden",
+      "en": "hour / period",
+      "cn": "小时、时段",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "ruhig",
+      "art": null,
+      "en": "quiet",
+      "cn": "安静的",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Musik",
+      "art": "die",
+      "pl": "Musiken",
+      "en": "music",
+      "cn": "音乐",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "leiser",
+      "art": null,
+      "en": "quieter",
+      "cn": "更小声的",
+      "note": "leise 的比较级 (comparative)",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Licht",
+      "art": "das",
+      "pl": "Lichter",
+      "en": "light",
+      "cn": "灯光、光线",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "dunkler",
+      "art": null,
+      "en": "darker",
+      "cn": "更暗的",
+      "note": "dunkel 的比较级 (comparative)",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "mitten",
+      "art": null,
+      "en": "in the middle of",
+      "cn": "在……正中央",
+      "note": "mitten in + Dativ",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Arnstadt",
+      "art": null,
+      "en": "Arnstadt (Thuringia)",
+      "cn": "阿尔恩施塔特（图林根州城市）",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Berlin",
+      "art": null,
+      "en": "Berlin",
+      "cn": "柏林（德国首都）",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Freibad",
+      "art": "das",
+      "pl": "Freibäder",
+      "en": "open-air swimming pool",
+      "cn": "露天游泳池",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Theater",
+      "art": "das",
+      "pl": "Theater",
+      "en": "theatre",
+      "cn": "剧院、剧场",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Volksbühne",
+      "art": "die",
+      "pl": "—",
+      "en": "People's Stage (theatre)",
+      "cn": "国民舞台剧院（柏林）",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Idee",
+      "art": "die",
+      "pl": "Ideen",
+      "en": "idea",
+      "cn": "想法、主意",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Chef",
+      "art": "der",
+      "pl": "Chefs",
+      "en": "boss / head",
+      "cn": "主管、负责人",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "neu",
+      "art": null,
+      "en": "new",
+      "cn": "新的",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "stehen",
+      "art": null,
+      "en": "to stand / be located",
+      "cn": "站立、位于",
+      "note": "steht / stand / gestanden (sein!)",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "vor",
+      "art": null,
+      "en": "in front of",
+      "cn": "在……前面",
+      "note": "Praeposition + Dativ (静态位置)",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Glücks-Liga",
+      "art": "die",
+      "pl": "Glücks-Ligen",
+      "en": "Glücks-Liga (happy league)",
+      "cn": "快乐联赛",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Organisation",
+      "art": "die",
+      "pl": "Organisationen",
+      "en": "organisation",
+      "cn": "组织、机构",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Handball",
+      "art": "der",
+      "pl": "Handbälle",
+      "en": "handball",
+      "cn": "手球",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Kind",
+      "art": "das",
+      "pl": "Kinder",
+      "en": "child",
+      "cn": "孩子",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Jugendliche",
+      "art": "der",
+      "pl": "Jugendliche",
+      "en": "young person / teen",
+      "cn": "青少年",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Behinderung",
+      "art": "die",
+      "pl": "Behinderungen",
+      "en": "disability",
+      "cn": "障碍、残疾",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "zusammen",
+      "art": null,
+      "en": "together",
+      "cn": "一起",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Mannschaft",
+      "art": "die",
+      "pl": "Mannschaften",
+      "en": "team",
+      "cn": "队伍",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "mitmachen",
+      "art": null,
+      "en": "to take part",
+      "cn": "参与、参加",
+      "note": "trennbar: macht … mit",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Buslinie",
+      "art": "die",
+      "pl": "Buslinien",
+      "en": "bus line",
+      "cn": "公交线路",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Bus",
+      "art": "der",
+      "pl": "Busse",
+      "en": "bus",
+      "cn": "公交车",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Stadtteil",
+      "art": "der",
+      "pl": "Stadtteile",
+      "en": "district / part of town",
+      "cn": "城区、市区",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Verbindung",
+      "art": "die",
+      "pl": "Verbindungen",
+      "en": "connection / link",
+      "cn": "连接、线路",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "freuen",
+      "art": null,
+      "en": "to make happy; sich freuen = to be happy",
+      "cn": "使高兴；（反身）感到高兴",
+      "note": "reflexiv: freut sich",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Sommerferien",
+      "art": "die",
+      "pl": "Sommerferien",
+      "en": "summer holidays",
+      "cn": "暑假",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Schwelbrand",
+      "art": "der",
+      "pl": "Schwelbrände",
+      "en": "smoldering fire",
+      "cn": "阴燃火、闷烧火",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Kohle",
+      "art": "die",
+      "pl": "Kohlen",
+      "en": "coal",
+      "cn": "煤、煤炭",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Rauch",
+      "art": "der",
+      "pl": "—",
+      "en": "smoke",
+      "cn": "烟、烟雾",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Bürger",
+      "art": "der",
+      "pl": "Bürger",
+      "en": "citizen",
+      "cn": "市民、公民",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Info-Veranstaltung",
+      "art": "die",
+      "pl": "Info-Veranstaltungen",
+      "en": "information event",
+      "cn": "资讯说明会、信息活动",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Region",
+      "art": "die",
+      "pl": "Regionen",
+      "en": "region",
+      "cn": "地区",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Stadt",
+      "art": "die",
+      "pl": "Städte",
+      "en": "city",
+      "cn": "城市",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Dienstag",
+      "art": "der",
+      "pl": "Dienstage",
+      "en": "Tuesday",
+      "cn": "星期二",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Gehalt",
+      "art": "das",
+      "pl": "Gehälter",
+      "en": "salary",
+      "cn": "薪水、工资",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Manager",
+      "art": "der",
+      "pl": "Manager",
+      "en": "manager",
+      "cn": "经理、管理者",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Ziel",
+      "art": "das",
+      "pl": "Ziele",
+      "en": "goal / target",
+      "cn": "目标",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "knüpfen",
+      "art": null,
+      "en": "to tie / link; etw. an etw. (Akk.) knüpfen",
+      "cn": "系、绑；把…与…挂钩",
+      "note": "etwas an etwas (Akkusativ) knüpfen = to tie/link sth to sth",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "pünktlich",
+      "art": null,
+      "en": "punctual / on time",
+      "cn": "准时的",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Geld",
+      "art": "das",
+      "pl": "—",
+      "en": "money",
+      "cn": "钱",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "besser",
+      "art": null,
+      "en": "better (comparative of gut)",
+      "cn": "更好的（gut 的比较级）",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "bauen",
+      "art": null,
+      "en": "to build",
+      "cn": "建造、施工",
+      "note": "baut/baute/gebaut (hat!)",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Westbahnhof",
+      "art": "der",
+      "pl": "Westbahnhöfe",
+      "en": "west station",
+      "cn": "西火车站",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Bauarbeiten",
+      "art": "die",
+      "pl": "Bauarbeiten",
+      "en": "construction work",
+      "cn": "建筑工程",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Vorplatz",
+      "art": "der",
+      "pl": "Vorplätze",
+      "en": "forecourt",
+      "cn": "前广场、站前广场",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "bald",
+      "art": null,
+      "en": "soon",
+      "cn": "很快、不久",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Frist",
+      "art": "die",
+      "pl": "Fristen",
+      "en": "deadline",
+      "cn": "期限、截止日期",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Projekt",
+      "art": "das",
+      "pl": "Projekte",
+      "en": "project",
+      "cn": "项目",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "enden",
+      "art": null,
+      "en": "to end",
+      "cn": "结束、到期",
+      "note": "endet/endete/geendet (hat!)",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Unwetter",
+      "art": "das",
+      "pl": "Unwetter",
+      "en": "storm / severe weather",
+      "cn": "恶劣天气、暴风雨",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Arbeiter",
+      "art": "der",
+      "pl": "Arbeiter",
+      "en": "worker",
+      "cn": "工人",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "weiter",
+      "art": null,
+      "en": "further / on",
+      "cn": "继续、进一步",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Aufräumarbeiten",
+      "art": "die",
+      "pl": "Aufräumarbeiten",
+      "en": "cleanup work",
+      "cn": "清理工作",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "zuerst",
+      "art": null,
+      "en": "first",
+      "cn": "首先",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "freiräumen",
+      "art": null,
+      "en": "to clear (free up space)",
+      "cn": "清理出来",
+      "note": "trennbar: räumt ... frei",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Weg",
+      "art": "der",
+      "pl": "Wege",
+      "en": "path / way",
+      "cn": "道路、路",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Rettungskräfte",
+      "art": "die",
+      "pl": "Rettungskräfte",
+      "en": "rescue forces / rescue workers",
+      "cn": "救援力量、救援人员",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Start-up",
+      "art": "das",
+      "pl": "Start-ups",
+      "en": "start-up",
+      "cn": "初创公司",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "helfen",
+      "art": null,
+      "en": "to help",
+      "cn": "帮助",
+      "note": "hilft/half/geholfen；要求 Dativ（helfen + wem?）",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "sparen",
+      "art": null,
+      "en": "to save",
+      "cn": "节省、省下",
+      "note": "spart/ sparte / gespart (hat!)",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Heizkosten",
+      "art": "die",
+      "pl": "Heizkosten",
+      "en": "heating costs",
+      "cn": "取暖费、暖气费",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "App",
+      "art": "die",
+      "pl": "Apps",
+      "en": "app",
+      "cn": "应用程序",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "KI",
+      "art": "die",
+      "pl": "—",
+      "en": "AI (artificial intelligence)",
+      "cn": "人工智能 (Künstliche Intelligenz)",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "steuern",
+      "art": null,
+      "en": "to control / steer",
+      "cn": "控制、调节",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Heizung",
+      "art": "die",
+      "pl": "Heizungen",
+      "en": "heating",
+      "cn": "供暖、暖气",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Wohnung",
+      "art": "die",
+      "pl": "Wohnungen",
+      "en": "apartment",
+      "cn": "公寓、住房",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Mieter",
+      "art": "der",
+      "pl": "Mieter",
+      "en": "tenant",
+      "cn": "租客、房客",
+      "src": "news",
+      "lvl": "A2"
+    },
+    {
+      "de": "Hausbesitzer",
+      "art": "der",
+      "pl": "Hausbesitzer",
+      "en": "homeowner",
+      "cn": "房主、屋主",
+      "src": "news",
+      "lvl": "A2"
+    }
+  ]
+}
