@@ -1,70 +1,71 @@
 {
-  "updated": "2026-08-15",
+  "updated": "2026-08-18",
   "level": "A2",
   "mix": "Jena lokal · Einfache Deutsch · National",
   "items": [
     {
       "source": "Jenaer Nachrichten",
       "cat": "Jena lokal",
-      "url": "https://www.jenaer-nachrichten.de/stadtleben/29575-buergerservice-jena-raetselhafter-gasalarm-in-tiefgarage",
-      "date": "2026-08-15",
-      "de": "Am Freitag kam es in der Tiefgarage des Jenaer Buergerdienstes zu einem Gasalarm. Die Feuerwehr und ein technisches Hilfskraft-Zug waren im Einsatz. Der Grund fuer den Alarm ist noch unklar.",
-      "cn": "周五（15日）在耶拿市民服务中心的地下停车场发生了气体警报。消防队和技术救援队出动了。警报原因尚不清楚。",
+      "url": "https://www.jenaer-nachrichten.de/stadtleben/29566-einschulung-in-jena-jena-zaehlt-erneut-weniger-schulanfaenger",
+      "date": "2026-08-18",
+      "de": "In Jena beginnt das neue Schuljahr. Dieses Jahr kommen nur 916 Kinder in die erste Klasse. Die Zahl der Schulanfaenger sinkt in Jena schon seit einigen Jahren.",
+      "cn": "耶拿开始了新学年。今年只有 916 个孩子进入一年级。耶拿的入学儿童数量几年来一直在下降。",
       "words": [
-        {"w": "Am Freitag", "m": "周五（der Freitag 男性，复数 die Freitage；am = an dem）", "pl": "die Freitage"},
-        {"w": "kam es zu", "m": "发生了（es = 形式主语；zu einem Gasalarm 来了一个气体警报；kommen zu + Dativ 表“发生……事情”）", "pl": "—", "note": "es kommt zu etwas = something happens / there is"},
-        {"w": "einem Gasalarm", "m": "气体警报（der Alarm 男性，警报；Gas 气体；Gasalarm 复合词；ein + Dativ 因前面有 zu）", "pl": "die Gasalarme"},
-        {"w": "der Tiefgarage", "m": "地下停车场（die Tiefgarage 女性，地下车库；Tief 深的 + Garage 车库；这里用第三格，因为在……里面）", "pl": "die Tiefgaren"},
-        {"w": "des Buergerdienstes", "m": "市民服务中心的（der Buergerdienst 男性，市民服务；des = 第三格属格，表示所属关系）", "pl": "die Buergerdienste"},
-        {"w": "die Feuerwehr", "m": "消防队（负冠词 die，女性名词；Feuer 火，Wehr 防御）", "pl": "—"},
-        {"w": "ein technisches Hilfskraft-Zug", "m": "技术救援队（der Zug 男性，此处指“一队/一组”；technisch 技术的；Hilfskraft 救援人员/援助力量；复合词）", "pl": "die Zuege"},
-        {"w": "war im Einsatz", "m": "正在执行任务/出动了（sein + im + 第四格；im Einsatz sein = to be in action / deployed）", "pl": "—"},
-        {"w": "Der Grund", "m": "原因（der Grund 男性，复数 die Gruende；Grund  grounds/reason）", "pl": "die Gruende"},
-        {"w": "fuer den Alarm", "m": "警报的原因（fuer = für，第四格介词；der Alarm 男性）", "pl": "—"},
-        {"w": "ist noch unklar", "m": "仍不清楚（noch 还/仍然；unklar 不清楚的，形容词）", "pl": "—"}
+        {"w": "In Jena", "m": "在耶拿（in = 在；Jena 耶拿，图林根城市名，专有名词中性）", "pl": "—"},
+        {"w": "beginnt", "m": "开始（beginnen 的第三人称单数现在时，词尾 -t）", "pl": "—"},
+        {"w": "das neue Schuljahr", "m": "新学年（das Schuljahr 中性，学年；neu 新的）", "pl": "die Schuljahre"},
+        {"w": "Dieses Jahr", "m": "今年（dieses = 这个，指示代词；das Jahr 中性，年）", "pl": "die Jahre"},
+        {"w": "nur 916 Kinder", "m": "只有 916 个孩子（nur 只/仅仅；das Kind 中性，孩子，复数 die Kinder）", "pl": "die Kinder"},
+        {"w": "in die erste Klasse", "m": "进入一年级（die Klasse 女性，班级；erste 第一的；in + 第四格表示方向“进入”）", "pl": "die Klassen", "note": "in + Akkusativ for movement into"},
+        {"w": "Die Zahl", "m": "数量/数字（die Zahl 女性，数字/数量）", "pl": "die Zahlen"},
+        {"w": "der Schulanfaenger", "m": "入学儿童（der Schulanfaenger 男性，刚上学的孩子；Schule 学校 + Anfang 开始）", "pl": "die Schulanfaenger"},
+        {"w": "sinkt", "m": "下降（sinken 的第三人称单数；此处指数量减少/走低）", "pl": "—"},
+        {"w": "schon seit einigen Jahren", "m": "几年来一直（schon 已经；seit 自从/……以来，要求第三格；einige Jahre 几年）", "pl": "—", "note": "seit + Dativ = for/since (a duration up to now)"}
       ],
-      "grammar": "kommen zu + Dativ: 'es kam zu einem Gasalarm' = there was a gas alarm（发生某事的固定表达，其中 es 是形式主语）。属格第三格: 'des Buergerdienstes' = of the citizen service（名词间所属關係的古典表示法，現代口語多用 von + Dativ，但書面新聞仍常用）；注意 der Buergerdienst 是陽性。sein im Einsatz: 固定短語表示“執行任務/出動”，im = in dem（第三格），Einsatz 男性。 noch unklar: 形容詞作表語，不變格。"
+      "grammar": "Present tense: 'beginnt', 'kommen', 'sinkt' all take the 3rd-person singular -t ending. 'weniger' (fewer) carries the comparison. 'seit' + dative ('seit einigen Jahren') marks a duration continuing into the present — a common A2 time expression. 'in die erste Klasse' uses accusative because it expresses movement into a place."
     },
     {
       "source": "nachrichtenleicht (DLF)",
       "cat": "Einfache Deutsch",
-      "url": "https://www.nachrichtenleicht.de/recht-reparatur-100.html",
-      "date": "2026-08-15",
-      "de": "Ab jetzt muessen Hersteller mehr kaputte Elektro-Geraete reparieren. Das steht in einem Gesetz. Das Gesetz nennt man 'Recht auf Reparatur'.",
-      "cn": "从现在起，厂商必须修复更多损坏的电器。这写在一项法律里。这项法律叫做“维修权”。",
+      "url": "https://www.nachrichtenleicht.de/auto-fahrer-umfrage-100.html",
+      "date": "2026-08-18",
+      "de": "Immer mehr Auto-Fahrer sind ungeduldig. Sie aergern sich schneller im Stau oder an der Ampel. Eine Studie zeigt: Die Geduld im Strassenverkehr wird weniger.",
+      "cn": "越来越多的开车人没有耐心。他们在堵车里或红绿灯前更快生气。一项研究表明：道路交通中的耐心正在变少。",
       "words": [
-        {"w": "Ab jetzt", "m": "从现在起（ab + Dativ 表起点；jetzt = 现在）", "pl": "—", "note": "ab jetzt = from now on"},
-        {"w": "muessen", "m": "必须（mussen 情态动词，复数/第一第二人称单数型；这里主语是 Hersteller 复数）", "pl": "—"},
-        {"w": "Hersteller", "m": "厂商、制造商（der Hersteller 男性，复数 die Hersteller；herstellen 制造/生产）", "pl": "die Hersteller"},
-        {"w": "mehr kaputte Elektro-Geraete", "m": "更多损坏的电器（mehr 更多；kaputt 坏的/损坏的，形容词；die Elektro-Geraete 电器，复数；kaputte 是 형용사复数弱变化 -e）", "pl": "die Elektro-Geraete"},
-        {"w": "reparieren", "m": "修复（动词，不定式；英语 repair）", "pl": "—"},
-        {"w": "Das steht in einem Gesetz", "m": "这写在一项法律里（stehen + Dativ 表“位于/记载于”；das = dieses Gesetz；in einem Gesetz = in einem Gesetz（第三格，因为表示位于内部））", "pl": "—"},
-        {"w": "nennt man", "m": "人们称之为（man = 人们/一般主语；nennen 叫做/命名；man nennt = people call）", "pl": "—"},
-        {"w": "Recht auf Reparatur", "m": "维修权（das Recht 法律权利/权利，中性；auf + Dativ？实为固定搭配 Recht auf + Akk？此处联合结构；Reparatur 修复/维修，女性）", "pl": "—", "note": "Recht auf + Akkusativ = right to (do something)"}
+        {"w": "Immer mehr", "m": "越来越多（immer = 越来越；mehr = 更多）", "pl": "—"},
+        {"w": "der Auto-Fahrer", "m": "开车的人/司机（der Fahrer 男性，司机；Auto 汽车；复合词）", "pl": "die Auto-Fahrer"},
+        {"w": "sind ungeduldig", "m": "没有耐心（sein + ungeduldig 不耐烦的，形容词作表语；un- 否定前缀 + geduldig 有耐心的）", "pl": "—"},
+        {"w": "Sie aergern sich", "m": "他们生气（sich aergern 生气的反身动词；Sie 他们；sich 反身代词第四格）", "pl": "—", "note": "sich aergern = to get annoyed (reflexive, accusative)"},
+        {"w": "schneller", "m": "更快地（schnell 快的，比较级加 -er）", "pl": "—"},
+        {"w": "im Stau", "m": "在堵车中（der Stau 男性，堵车/拥堵；im = in dem）", "pl": "die Staus"},
+        {"w": "an der Ampel", "m": "在红绿灯处（die Ampel 女性，红绿灯/信号灯；an + 第三格表地点）", "pl": "die Ampeln", "note": "an + Dativ = at (a location)"},
+        {"w": "Eine Studie", "m": "一项研究（die Studie 女性，研究；eine 不定冠词）", "pl": "die Studien"},
+        {"w": "zeigt", "m": "显示（zeigen 的第三人称单数；show）", "pl": "—"},
+        {"w": "Die Geduld", "m": "耐心（die Geduld 女性，耐心；来自形容词 geduldig）", "pl": "—"},
+        {"w": "im Strassenverkehr", "m": "在道路交通中（der Verkehr 男性，交通；die Strasse 女性，街道；复合词 Strassenverkehr）", "pl": "—"},
+        {"w": "wird weniger", "m": "变少（werden 变得/变成；weniger 更少；werden 作实义动词“变得”）", "pl": "—"}
       ],
-      "grammar": "情態動詞 mussen: 'Hersteller muessen reparieren' = 主詞複數配 mussen（複數形式），實義動詞 reparieren 放句末不定式。介詞 in + Dativ（介於內部）：'in einem Gesetz' = in a law（法律之中）。にも関わらず、英語からは 'in a law' となるが、ドイツ語では Dativ。接続詞構造 'Das Gesetz, das man nennt...' 的相對從句説明性名詞（被省略），這裡改用主句 'Das Gesetz nennt man...'。 'Recht auf Reparatur': auf + Akkusativ 在此为固定法律用語（權利指向的動作），對應英語 right to repair。"
+      "grammar": "Reflexive verb 'sich aergern' takes a reflexive pronoun in the accusative ('sich'). 'immer mehr' = increasingly many (a set comparative phrase). 'an der Ampel' uses 'an' + dative for location. 'werden' here is a full verb meaning 'to become' (Die Geduld ... wird weniger), not the future auxiliary."
     },
     {
       "source": "tagesschau",
       "cat": "National",
-      "url": "https://www.tagesschau.de/inland/niedrigwasser-folgen-bahn-preise-100.html",
-      "date": "2026-08-15",
-      "de": "Der Rhein hat wenig Wasser. Die Schifffahrt ist stark eingeschraenkt. Die Deutsche Bahn will alte Gueterwaggons wieder nutzen, um mehr Guter auf die Schiene zu verlegen.",
-      "cn": "莱茵河水位很低。航运受到严重限制。德国铁路计划重新使用旧货运车厢，把更多货物转运到铁路上。",
+      "url": "https://www.tagesschau.de/inland/regional/hamburg/tarifstreit-warnstreik-in-seehaefen,seehaefen-112.html",
+      "date": "2026-08-18",
+      "de": "In deutschen Seehaefen gibt es einen Warnstreik. Die Hafen-Arbeiter wollen mehr Geld vom Arbeitgeber. Viele Schiffe muessen jetzt warten.",
+      "cn": "在德国的海港里发生了警告性罢工。港口工人想从雇主那里得到更多钱。许多船只现在必须等待。",
       "words": [
-        {"w": "Der Rhein", "m": "莱茵河（der Rhein 男性，德国最长的河流名称）", "pl": "—"},
-        {"w": "hat wenig Wasser", "m": "水位很低/水很少（wenig 少的；Wasser 水，中性）", "pl": "—"},
-        {"w": "Die Schifffahrt", "m": "航运/水上运输（die Schifffahrt 女性；Schiff 船 + Fahrt 旅程/行程）", "pl": "—"},
-        {"w": "ist stark eingeschraenkt", "m": "受到严重限制（stark 强烈地/严重地；eingeschraenkt 是 einschraenken 限制的过去分词，构成被动完成 'ist ... eingeschraenkt worden' 的简略）", "pl": "—", "note": "eingeschraenkt = restricted (Partizip II)"},
-        {"w": "Die Deutsche Bahn", "m": "德国铁路（die Deutsche Bahn 女性，德国国家铁路公司简称 DB）", "pl": "—"},
-        {"w": "will", "m": "计划/想要（wollen 的第三人称单数现在时形式；这里表示“打算、计划”而非单纯“想要”）", "pl": "—"},
-        {"w": "alte Gueterwaggons", "m": "旧货运车厢（der Gueterwaggon 男性，货运车箱/货车辆；alt 旧的，复数 alte；Gueter 货物 + Waggon 车厢）", "pl": "die Gueterwaggons"},
-        {"w": "wieder nutzen", "m": "再次使用（wieder 再次；nutzen 使用，动词不定式）", "pl": "—"},
-        {"w": "um ... zu verlegen", "m": "为了转运（um ... zu = 目的结构，相当于“为了……”；verlegen 迁移/转运/布置，此处指把货物从水路转到铁路）", "pl": "—", "note": "um ... zu + Infinitiv = in order to ..."},
-        {"w": "mehr Guter", "m": "更多货物（mehr 更多；die Gueter 货物，复数，通常不数）", "pl": "—"},
-        {"w": "auf die Schiene", "m": "到轨道/铁路上（auf + 第四格，因为是方向/移动指向的目标；die Schiene 女性，轨道/铁路）", "pl": "die Schienen", "note": "auf + Akkusativ for direction (movement onto the rails)"}
+        {"w": "In deutschen Seehaefen", "m": "在德国的海港里（der Seehafen 男性，海港；deutsch 德国的，复数第三格形容词词尾 -en；See 海 + Hafen 港口）", "pl": "die Seehaefen"},
+        {"w": "gibt es", "m": "有/存在（es gibt = 有/there is/are；geben 给；es 形式主语）", "pl": "—", "note": "es gibt + Akkusativ = there is/are"},
+        {"w": "einen Warnstreik", "m": "一次警告性罢工（der Streik 男性，罢工；Warnung 警告 + Streik；einen 第四格，因 es gibt 要求第四格）", "pl": "die Warnstreiks"},
+        {"w": "Die Hafen-Arbeiter", "m": "港口工人（der Arbeiter 男性，工人；der Hafen 男性，港口；复合词）", "pl": "die Hafen-Arbeiter"},
+        {"w": "wollen mehr Geld", "m": "想要更多钱（wollen 想要，情态动词；das Geld 中性，钱；mehr 更多）", "pl": "—"},
+        {"w": "vom Arbeitgeber", "m": "从雇主那里（der Arbeitgeber 男性，雇主；von + 第三格 = 从；vom = von dem）", "pl": "die Arbeitgeber", "note": "von + Dativ = from"},
+        {"w": "Viele Schiffe", "m": "许多船只（das Schiff 中性，船，复数 die Schiffe，以 -ff/-sch 结尾的名词复数常加 -e）", "pl": "die Schiffe"},
+        {"w": "muessen ... warten", "m": "必须等待（muessen 必须，情态动词；warten 等待，不定式放句末）", "pl": "—", "note": "modal verb + infinitive at clause end"},
+        {"w": "jetzt", "m": "现在（时间副词）", "pl": "—"}
       ],
-      "grammar": "被动完成簡化表达: 'ist eingeschraenkt' 實際是 'ist ... eingeschraenkt worden'（Vorgangspassiv Perfekt）的簡略新聞體， gebraucht ohne 'worden' 在報導裡很常見。情態動作 'will ... nutzen': wollen 表計劃/意圖（not just desire），搭配不定式放在句末。目的結構 'um ... zu + Infinitiv': 'um mehr Guter auf die Schiene zu verlegen' = in order to shift more goods onto the rails（目的從句替代結構）。介詞方向用法: 'auf die Schiene' 用第四格，因為是移動的目標方向。生態/物流主題對 A2 實用——河流、運輸、貨運。"
+      "grammar": "'es gibt' always takes the accusative ('einen Warnstreik'). Modal verbs 'wollen' and 'muessen' push their infinitive ('warten') to the end of the clause. 'von + dative' = from ('vom Arbeitgeber'). Plural of 'das Schiff' is 'die Schiffe' (nouns ending in -ff/-sch add -e in plural). Adjective ending '-en' after 'in deutschen Seehaefen' (plural dative)."
     }
   ]
 }

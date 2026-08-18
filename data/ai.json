@@ -1,69 +1,69 @@
 {
-  "updated": "2026-08-15",
+  "updated": "2026-08-18",
   "items": [
     {
-      "title": "OpenAI verliert zweiten Führungskreismitglied in einer Woche",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
-      "summary": "OpenAI's Chief Revenue Officer Denise Dresser announced she is leaving the company, just two days after COO Brad Lightcap said he would depart. It is the second senior exit in a week, raising questions about organizational stability at one of the most influential AI labs.",
-      "date": "2026-08-15",
-      "source": "The Verge",
-      "tag": "OpenAI · 执行团队变动"
+      "title": "Anthropic 年化收入飙升至 650 亿美元",
+      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
+      "summary": "AI 模型公司 Anthropic 的年化收入在两个月内增加了 180 亿美元，达到 650 亿美元。这显示大模型公司的商业增长非常迅速，也反映出企业和开发者对 Claude 等模型的需求强劲。",
+      "date": "2026-08-18",
+      "source": "TechCrunch",
+      "tag": "Anthropic · 营收 · Claude"
     },
     {
-      "title": "Microsoft 合并 Copilot 应用，为‘超级应用’铺路",
-      "url": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
-      "summary": "Microsoft announced it is merging its Copilot apps into a single unified experience ahead of an eventual 'super app.' The move gets rid of the annoying double-Copilot icons and signals Microsoft's ambition to make Copilot the central AI assistant across Windows, Office, and Edge.",
-      "date": "2026-08-15",
-      "source": "The Verge",
-      "tag": "Microsoft · Copilot · 超级应用"
+      "title": "AI 自动化创业公司 Relay 关闭，团队加入 Google Chrome",
+      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
+      "summary": "做 AI 工作流自动化的初创公司 Relay 宣布关闭，其创始人兼 CEO 表示团队将加入 Google 的 Chrome 团队，帮助用户在浏览器里用 AI 完成工作。这反映出 AI 应用赛道的整合与洗牌。",
+      "date": "2026-08-18",
+      "source": "TechCrunch",
+      "tag": "Relay · Google · AI 自动化"
     },
     {
-      "title": "Microsoft 的 Copilot 拟人形象 Mico 退役",
-      "url": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
-      "summary": "Microsoft retired Mico, the Clippy-like animated character that served as the face of Copilot's voice mode, less than a year after launch. Mico is being moved to a 'Learn Live' education context; the change reflects Microsoft's shift from a playful character-driven AI toward a more utilitarian assistant.",
-      "date": "2026-08-15",
-      "source": "The Verge",
-      "tag": "Microsoft · Mico · 拟人形象"
+      "title": "AI 视频公司 Higgsfield 完成 4 亿美元 B 轮融资",
+      "url": "https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/",
+      "summary": "由前 Snap 高管创办的 Higgsfield 让用户用 AI 生成图片和视频，公司在 8 个月内估值翻两番达到 54 亿美元，并完成 4 亿美元 B 轮融资。生成式视频赛道持续吸金。",
+      "date": "2026-08-18",
+      "source": "TechCrunch",
+      "tag": "Higgsfield · 融资 · AI 视频"
     },
     {
-      "title": "DeepSeek-V4 Pro 公开，开源模型再上新台阶",
-      "url": "https://llm-stats.com/models/deepseek-v4-pro-0813",
-      "summary": "DeepSeek released DeepSeek-V4-Pro-0813, a new open-weight frontier model. The LLM stats tracker lists it alongside Gemini 3.7 Flash and other recent releases, showing that Chinese labs continue to push the open-source frontier even as US labs focus on closed, agentic products.",
-      "date": "2026-08-15",
-      "source": "LLM Stats",
-      "tag": "DeepSeek · 开源模型"
+      "title": "Groq 融资 3.5 亿美元，从 AI 芯片转向 neocloud",
+      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
+      "summary": "原 AI 芯片公司 Groq 以 35 亿美元估值融资 3.5 亿美元，业务重点转向 neocloud（新型云算力），并扩大基于英伟达芯片的数据中心规模。AI 算力基础设施竞争加剧。",
+      "date": "2026-08-18",
+      "source": "TechCrunch",
+      "tag": "Groq · 融资 · AI 算力"
     },
     {
-      "title": "Z.ai 称新模型在网络防御测试中逼近 Anthropic Mythos 5",
-      "url": "https://www.reuters.com/technology/chinas-zai-says-new-model-nears-anthropics-mythos-5-cyber-defence-tests-2026-08-14/",
-      "summary": "Reuters reported that Chinese lab Z.ai says its new model nears Anthropic's Mythos 5 in cyber-defence benchmarks. The claim underlines how AI safety and cyber-defense eval results are becoming a competitive talking point for labs in both the US and China.",
-      "date": "2026-08-15",
-      "source": "Reuters",
-      "tag": "Z.ai · 网络防御基准"
+      "title": "Amazon 被指销毁珍稀书籍以训练 AI",
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
+      "summary": "据调查报道，Amazon 正在销毁稀有书籍用于训练 AI 模型。稀有书籍对训练大语言模型价值很高，因为网上已有内容几乎被学完。此举引发关于文化遗产与版权的争议。",
+      "date": "2026-08-18",
+      "source": "TechCrunch",
+      "tag": "Amazon · 数据 · 版权争议"
     },
     {
-      "title": "AI 界人才流动：Transformer 联合发明人 Noam Shazeer 从 Google 转去 OpenAI",
-      "url": "https://www.instagram.com/reel/DZvlnTxEUzp/?hl=en",
-      "summary": "Google's star AI researcher Noam Shazeer, a key figure behind the transformer architecture (the 'T' in GPT), left Google for OpenAI. This is his second major move between the two companies and reflects the ongoing talent war between the top AI labs.",
-      "date": "2026-08-15",
-      "source": "AI News / Instagram",
-      "tag": "人才流动 · Transformer · OpenAI"
+      "title": "Google 医疗 AI AMIE 展示实时视频问诊能力",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+      "summary": "Google 研究的医疗 AI 系统 AMIE 在一项首创研究中展示了实时临床视频问诊能力。AMIE 能在模拟环境中与患者进行视频对话并给出初步评估，显示 AI 在远程医疗中的潜力。",
+      "date": "2026-08-18",
+      "source": "Google Blog",
+      "tag": "Google · AMIE · 医疗 AI"
     },
     {
-      "title": "Apple 与阿里巴巴合作，为中国市场训练专属 AI 模型",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-      "summary": "Apple trained its own AI model for the Chinese market with help from Alibaba, Reuters and The Verge reported. The partnership lets Apple Intelligence run on-device in China while complying with local data and model requirements — a notable example of how AI product strategy must adapt to regional regulation.",
-      "date": "2026-08-15",
-      "source": "The Verge",
-      "tag": "Apple · 阿里巴巴 · 中国市场"
+      "title": "Gemini API 推出 Managed Agents：3.6 Flash、钩子等",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
+      "summary": "Google 在 Gemini API 的 Managed Agents 中新增更多能力，包括 3.6 Flash 模型、钩子（hooks）以及后台任务、远程 MCP 等，帮助开发者构建更可靠、可上生产的 AI 智能体。",
+      "date": "2026-08-18",
+      "source": "Google Blog",
+      "tag": "Google · Gemini · 智能体"
     },
     {
-      "title": "Nature 发表脑启发生成模型，可实现目标导向的想象与规划",
-      "url": "https://www.nature.com/articles/s42256-026-01254-4",
-      "summary": "A new paper in Nature Machine Intelligence by Lin et al. introduces a brain-inspired generative model that enables goal-directed imagination and planning. The work connects cognitive-map ideas from neuroscience with modern generative AI — an example of how basic cognitive science continues to shape AI architecture research.",
-      "date": "2026-08-15",
-      "source": "Nature Machine Intelligence",
-      "tag": "神经科学 · 规划 · 生成模型"
+      "title": "Google 搜索 AI 模式帮你更好享受现实生活",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "summary": "Google 介绍搜索中 AI Mode 的五种用法，帮助用户在离线现实世界中也更高效——比如订演唱会门票、查找本地活动等。AI 搜索不只是线上信息，也在连接真实生活场景。",
+      "date": "2026-08-18",
+      "source": "Google Blog",
+      "tag": "Google · AI 搜索 · 生活"
     }
   ]
 }
