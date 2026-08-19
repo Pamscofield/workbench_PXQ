@@ -2,68 +2,68 @@
   "updated": "2026-08-19",
   "items": [
     {
-      "title": "AI 离治愈癌症还很远，这家初创说它知道还差什么",
-      "url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
-      "summary": "一家初创公司表示，AI 离真正治愈癌症还差得很远，但它清楚还缺什么条件——比如更高质量的临床数据和更严格的验证。这提醒人们对“AI 治癌”的炒作要保持理性。",
+      "title": "英伟达联手高盛、贝莱德，把 GPU 算力包装成金融资产",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
+      "summary": "英伟达正与高盛、贝莱德合作，把 GPU 算力包装成一种可投资的金融资产。AI 训练对算力的巨大需求，正催生新的金融工具和商业模式。",
       "date": "2026-08-19",
-      "source": "TechCrunch",
-      "tag": "AI · 医疗 · 癌症"
+      "source": "The Verge",
+      "tag": "Nvidia · GPU · 算力金融"
     },
     {
-      "title": "Relativity Networks 融资 2200 万美元，把更快的光纤铺进数据中心",
-      "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
-      "summary": "Relativity Networks 融资 2200 万美元，要把一种更快的光纤（空芯光纤）铺到数据中心，以降低 AI 训练与数据传输的延迟。AI 算力对网络速度的要求越来越高。",
+      "title": "罗宾·威廉姆斯‘复活’的 Instagram 账号，被用来对抗 AI 滥用",
+      "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+      "summary": "已故演员罗宾·威廉姆斯的 Instagram 账号被‘复活’，目的是反击深度伪造等 AI 滥用行为。此事引发关于逝者形象与 AI 伦理的讨论。",
       "date": "2026-08-19",
-      "source": "TechCrunch",
-      "tag": "Relativity · 融资 · 数据中心"
+      "source": "The Verge",
+      "tag": "AI · 深度伪造 · 伦理"
     },
     {
-      "title": "Cursor 趁开发者对 GitHub 不满，推出 rival 代码托管平台",
-      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-      "summary": "做 AI 编程工具 Cursor 的公司推出了一款类似 GitHub 的代码托管平台，趁开发者对 GitHub 的一些不满抢占市场。AI 编程赛道正从“编辑器”延伸到整套开发协作工具。",
+      "title": "ChatGPT 广告业务扩展到欧洲 31 个市场",
+      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+      "summary": "OpenAI 将 ChatGPT 广告业务扩展到 31 个欧洲市场，让广告主能在用户探索、比较和做决定的环节触达用户。AI 聊天产品的商业化步伐正在加快。",
       "date": "2026-08-19",
-      "source": "TechCrunch",
-      "tag": "Cursor · GitHub · AI 编程"
+      "source": "OpenAI Blog",
+      "tag": "ChatGPT · 广告 · 商业化"
     },
     {
-      "title": "Hugging Face 安全事件后，OpenAI 出台新保护措施",
-      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
-      "summary": "在一次涉及 Hugging Face（知名 AI 开源社区）的安全事件后，OpenAI 出台了新的安全措施，加强对模型权重和账号的保护。开源 AI 生态的安全问题受到更多关注。",
+      "title": "OpenAI 推出计划，加强 AI 在国家安全领域的民主监督",
+      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+      "summary": "OpenAI 启动一项倡议，旨在加强 AI 用于国家安全时的民主监督，向政府机构提供工具、培训和专业知识。AI 军事化应用引发更多治理关注。",
       "date": "2026-08-19",
-      "source": "TechCrunch",
-      "tag": "OpenAI · 安全 · Hugging Face"
+      "source": "OpenAI Blog",
+      "tag": "OpenAI · 国家安全 · AI 治理"
     },
     {
-      "title": "Etched 估值一个月内翻倍至 210 亿美元",
-      "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
-      "summary": "专门做 AI 推理芯片（Sohu）的初创公司 Etched 估值在一个月内翻倍到 210 亿美元。AI 专用芯片赛道持续火热，资本对“更快更便宜地跑大模型”的硬件十分追捧。",
+      "title": "OpenAI 推出面向青少年的 ChatGPT，主打学习与保护",
+      "url": "https://openai.com/index/chatgpt-for-teens",
+      "summary": "OpenAI 推出专为青少年设计的 ChatGPT 版本，强调学习用途并配备年龄保护措施。面向未成年人的 AI 产品如何兼顾可用与安全成为焦点。",
       "date": "2026-08-19",
-      "source": "TechCrunch",
-      "tag": "Etched · 估值 · AI 芯片"
+      "source": "OpenAI Blog",
+      "tag": "ChatGPT · 青少年 · 保护"
     },
     {
-      "title": "为什么苹果带摄像头的 AirPods 未必是用户担心的“偷拍 pods”",
-      "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
-      "summary": "苹果计划推出带摄像头的 AirPods，引发“偷拍”担忧（被戏称为偷拍 pods）。文章解释其设计更可能用于 AR 和拍照辅助，并会配隐私保护，未必如人们担心的那样被滥用。",
+      "title": "OpenAI 联手 CodeAI，培养‘第一代 AI 原生人才’",
+      "url": "https://openai.com/index/partnering-with-codeai",
+      "summary": "OpenAI 与 CodeAI 合作，准备培养第一代‘AI 原生’人才，把 AI 素养纳入教育体系。如何让人从小掌握 AI 工具，正成为各国教育的新课题。",
       "date": "2026-08-19",
-      "source": "TechCrunch",
-      "tag": "Apple · AirPods · 隐私"
+      "source": "OpenAI Blog",
+      "tag": "OpenAI · 教育 · 人才培养"
     },
     {
-      "title": "Google 分享其面向 35.3 万人的 vibe coding 课程经验",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
-      "summary": "Google 分享了其面向 35.3 万人的“vibe coding”（用 AI 对话方式写代码）培训课程的经验。大规模推广 AI 辅助编程正成为企业提升开发效率的重要手段。",
+      "title": "英伟达用 ChatGPT Work 放大员工专长",
+      "url": "https://openai.com/index/nvidia/chatgpt-work",
+      "summary": "英伟达通过 ChatGPT Work 让员工的专业知识被更大范围复用，提升内部协作与效率。大企业正把 AI 助手深度嵌入日常工作流。",
       "date": "2026-08-19",
-      "source": "Google Blog",
-      "tag": "Google · Vibe Coding · 培训"
+      "source": "OpenAI Blog",
+      "tag": "Nvidia · 企业 AI · 效率"
     },
     {
-      "title": "Gemini 携手 Pixel 与足球俱乐部，带来更沉浸的观赛体验",
-      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
-      "summary": "Google 宣布 Gemini 与 Pixel 及足球俱乐部合作，用 AI 为球迷提供更身临其境的观赛体验，比如实时信息、个性化内容和影像功能。AI 正深入消费级娱乐场景。",
+      "title": "Asana 用 Codex 两周干完五年工程积压",
+      "url": "https://openai.com/index/asana",
+      "summary": "项目管理公司 Asana 借助 OpenAI 的 Codex 编程助手，在两周内清理完相当于五年的工程积压任务。AI 编程正在显著压缩软件交付周期。",
       "date": "2026-08-19",
-      "source": "Google Blog",
-      "tag": "Google · Gemini · Pixel"
+      "source": "OpenAI Blog",
+      "tag": "Codex · AI 编程 · 提效"
     }
   ]
 }

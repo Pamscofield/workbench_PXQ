@@ -6,70 +6,66 @@
     {
       "source": "Jenaer Nachrichten",
       "cat": "Jena lokal",
-      "url": "https://www.jenaer-nachrichten.de/stadtleben/29592-mittwoch-in-jena-kurzzeitige-vollsperrung-naumburger-strasse",
+      "url": "https://www.jenaer-nachrichten.de/stadtleben/29598-nachhaltig-ins-neue-schuljahr-moehrchenhefte-fuer-grundschueler-in-jena",
       "date": "2026-08-19",
-      "de": "In Jena ist die Naumburger Straße am Mittwoch kurzzeitig gesperrt. Die Sperrung gilt von 7 bis 19 Uhr. Autofahrer müssen eine Umleitung benutzen.",
-      "cn": "在耶拿，瑙姆堡大街周三短时间内被封闭。封锁从 7 点持续到 19 点。开车的人必须走一条绕行路线。",
+      "de": "In Jena bekommen Grundschüler zum Schulstart nachhaltige Hefte. Die Stadt verteilt 2.001 Exemplare an die Kinder. Die Hefte sind aus Recycling-Papier und schonen die Umwelt.",
+      "cn": "在耶拿，小学生开学时会拿到可持续的练习本。市政府向孩子们发放了 2001 本。这些本子用再生纸做成，保护环境。",
       "words": [
         {"w": "In Jena", "m": "在耶拿（in = 在；Jena 耶拿，图林根城市名，专有名词中性）", "pl": "—"},
-        {"w": "ist … gesperrt", "m": "被封闭的（sein 第三人称单数 ist；gesperrt 封闭/封锁，过去分词作表语，构成状态被动）", "pl": "—", "note": "sein + Partizip II = Zustandspassiv (state passive)"},
-        {"w": "die Naumburger Straße", "m": "瑙姆堡大街（die Straße 女性，街道；Naumburger 瑙姆堡的，地名形容词）", "pl": "die Straßen"},
-        {"w": "am Mittwoch", "m": "在周三（der Mittwoch 男性，周三；am = an dem；an + 第三格表某个时间点）", "pl": "die Mittwoche", "note": "an + Dativ for a day/point in time"},
-        {"w": "kurzzeitig", "m": "短时间的/暂时的（kurz 短的 + zeitig 时间的）", "pl": "—"},
-        {"w": "Die Sperrung", "m": "封锁/封闭（die Sperrung 女性，来自动词 sperren 封锁）", "pl": "die Sperrungen"},
-        {"w": "gilt", "m": "有效/适用（gelten 有效/适用，第三人称单数；此处指封锁时间段生效）", "pl": "—"},
-        {"w": "von 7 bis 19 Uhr", "m": "从 7 点到 19 点（von…bis 从…到；die Uhr 女性，钟点/小时）", "pl": "die Uhren"},
-        {"w": "Autofahrer", "m": "开车的人/司机（der Autofahrer 男性，司机；Auto 汽车 + Fahrer 驾驶者）", "pl": "die Autofahrer"},
-        {"w": "müssen", "m": "必须（müssen 情态动词，此处复数加 -en；后接不定式）", "pl": "—", "note": "modal verb + infinitive at clause end"},
-        {"w": "eine Umleitung", "m": "一条绕行路线（die Umleitung 女性，绕道/改道；um 转 + Leitung 线路）", "pl": "die Umleitungen"},
-        {"w": "benutzen", "m": "使用（动词，使用/利用）", "pl": "—"}
+        {"w": "bekommen", "m": "得到/收到（动词，规则变化：er/sie/es bekommt；此处复数 bekommen）", "pl": "—"},
+        {"w": "die Grundschüler", "m": "小学生（der Grundschüler 男性，小学生；Grundschule 小学 + Schüler 学生，复数 die Grundschüler）", "pl": "die Grundschüler"},
+        {"w": "zum Schulstart", "m": "在开学时（zum = zu dem；der Schulstart 男性，开学/学期开始）", "pl": "die Schulstarts", "note": "zu + Dativ as a temporal phrase"},
+        {"w": "nachhaltige Hefte", "m": "可持续的练习本（nachhaltig 可持续的，形容词；das Heft 中性，本子/练习册，复数 die Hefte）", "pl": "die Hefte"},
+        {"w": "Die Stadt", "m": "这座城市/市政府（die Stadt 女性，城市）", "pl": "die Städte"},
+        {"w": "verteilt", "m": "分发/发放（verteilen 分发，第三人称单数 verteilt）", "pl": "—"},
+        {"w": "2.001 Exemplare", "m": "2001 本/册（das Exemplar 中性，本/册/样本，复数 die Exemplare）", "pl": "die Exemplare"},
+        {"w": "an die Kinder", "m": "给孩子们（das Kind 中性，孩子，复数 die Kinder；an + 第四格表接收者‘给’）", "pl": "die Kinder", "note": "an + Akkusativ = to (recipient)"},
+        {"w": "aus Recycling-Papier", "m": "由再生纸制成（das Recycling-Papier 中性，再生纸；aus + 第三格表材料‘由…制成’）", "pl": "—", "note": "aus + Dativ = made of"},
+        {"w": "schonen", "m": "保护/爱护/节约（动词，此处指不伤害、保护）", "pl": "—"},
+        {"w": "die Umwelt", "m": "环境（die Umwelt 女性，环境，无复数）", "pl": "—"}
       ],
-      "grammar": "'ist … gesperrt' is a state passive (Zustandspassiv) with 'sein' + past participle. 'am Mittwoch' uses 'an' + dative for a point in time (a day). 'von … bis' marks a time span. The modal verb 'müssen' pushes its infinitive 'benutzen' to the end of the clause. Plural subject 'Autofahrer' takes the -en verb ending."
+      "grammar": "'bekommen' is a regular verb (plural 'bekommen' with the plural subject 'die Grundschüler'). 'zum Schulstart' uses 'zu + Dativ' as a temporal phrase ('at the start of school'). 'aus Recycling-Papier' uses 'aus' + Dative to express material ('made of'). 'an die Kinder' uses 'an' + Accusative for the indirect recipient ('to the children'). The plural noun 'die Hefte' has the same form in nominative and accusative."
     },
     {
       "source": "nachrichtenleicht (DLF)",
       "cat": "Einfache Deutsch",
-      "url": "https://www.nachrichtenleicht.de/brand-geruch-deutschland-100.html",
+      "url": "https://www.nachrichtenleicht.de/russland-jabloko-verbot-100.html",
       "date": "2026-08-19",
-      "de": "In einigen Regionen in Deutschland riecht es nach Feuer. Der Geruch kommt von Waldbränden. Die Menschen bleiben lieber drinnen.",
-      "cn": "在德国的某些地区，空气里闻起来有火的味道。这气味来自森林火灾。人们宁愿待在屋里。",
+      "de": "Ein russischer Politiker muss in ein Straflager. Er hat den Krieg in der Ukraine kritisiert. Die Regierung in Russland bestraft ihn dafür.",
+      "cn": "一位俄罗斯政治家必须进劳改营。他批评了乌克兰的战争。俄罗斯的政府为此惩罚他。",
       "words": [
-        {"w": "In einigen Regionen", "m": "在若干地区（die Region 女性，地区；einige 一些/若干；in + 第三格表地点）", "pl": "die Regionen"},
-        {"w": "in Deutschland", "m": "在德国（Deutschland 德国，中性专有名词，无冠词）", "pl": "—"},
-        {"w": "riecht es", "m": "它闻起来（riechen 闻/散发气味，第三人称单数 riecht；es 形式主语，类似 es regnet“下雨”）", "pl": "—"},
-        {"w": "nach Feuer", "m": "有火的味道（nach 按照/有…的味道；das Feuer 中性，火）", "pl": "—", "note": "nach + Dativ expresses the source of a smell"},
-        {"w": "Der Geruch", "m": "气味（der Geruch 男性，气味；来自动词 riechen）", "pl": "die Gerüche"},
-        {"w": "kommt", "m": "来自/来（kommen 来，第三人称单数；此处指气味来自…）", "pl": "—"},
-        {"w": "von Waldbränden", "m": "来自森林火灾（der Waldbrand 男性，森林火灾；von + 第三格 = 来自；Wald 森林 + Brand 火灾；复数第三格 -en）", "pl": "die Waldbrände", "note": "von + Dativ = from"},
-        {"w": "Die Menschen", "m": "人们（der Mensch 男性，人，复数 die Menschen）", "pl": "die Menschen"},
-        {"w": "bleiben", "m": "停留/保持（动词，留下）", "pl": "—"},
-        {"w": "lieber", "m": "宁愿/更愿意（比较级，来自 gern 乐意；lieber = rather/preferably）", "pl": "—", "note": "lieber = comparative of gern"},
-        {"w": "drinnen", "m": "在屋里/在室内（副词，里面）", "pl": "—"}
+        {"w": "Ein russischer Politiker", "m": "一位俄罗斯政治家（der Politiker 男性，政治家；russisch 俄罗斯的；ein 不定冠词 阳性）", "pl": "die Politiker"},
+        {"w": "muss", "m": "必须（müssen 情态动词，第三人称单数 muss；后接不定式，此处‘进’gehen 省略）", "pl": "—", "note": "modal verb + (implied) infinitive"},
+        {"w": "in ein Straflager", "m": "进一个劳改营（das Straflager 中性，劳改营/惩罚营；in + 第四格表方向‘进到…里’）", "pl": "die Straflager", "note": "in + Akkusativ = direction into"},
+        {"w": "Er hat … kritisiert", "m": "他批评了（kritisieren 批评，现在完成时 hat kritisiert；er 他，第三人称单数）", "pl": "—", "note": "Perfekt: haben + Partizip II"},
+        {"w": "den Krieg", "m": "这场战争（der Krieg 男性，战争；第四格作 kritisieren 的宾语）", "pl": "die Kriege"},
+        {"w": "in der Ukraine", "m": "在乌克兰（die Ukraine 女性，乌克兰；in + 第三格表地点‘在…里’）", "pl": "—", "note": "in + Dativ = location where"},
+        {"w": "Die Regierung", "m": "政府（die Regierung 女性，政府）", "pl": "die Regierungen"},
+        {"w": "in Russland", "m": "在俄罗斯（Russland 中性，俄罗斯，专有名词无冠词）", "pl": "—"},
+        {"w": "bestraft", "m": "惩罚（bestrafen 惩罚，第三人称单数 bestraft）", "pl": "—"},
+        {"w": "ihn", "m": "他（人称代词 er 的第四格形式，作 bestrafen 的宾语）", "pl": "—", "note": "Accusative personal pronoun"},
+        {"w": "dafür", "m": "为此/因为这件事（da + für = 为此；da 指代前文‘批评战争’这件事）", "pl": "—", "note": "da(r)-prefix pronoun + für"}
       ],
-      "grammar": "'es riecht nach Feuer' uses impersonal 'es' as a formal subject (like English 'it smells'). 'nach' + dative expresses the source of a smell. 'von Waldbränden' uses 'von' + dative = from. 'lieber' is the comparative of 'gern' (rather / preferably). The whole text stays in present tense."
+      "grammar": "'muss' is the modal verb 'müssen' (must) — its infinitive ('in ein Straflager gehen') is implied at the end. 'Er hat … kritisiert' is Perfekt with 'haben' + past participle. 'den Krieg' is Accusative (direct object of kritisieren). 'in der Ukraine' uses 'in' + Dative for location (where). 'ihn' is the Accusative personal pronoun replacing 'den Politiker'. 'dafür' = 'da' (there/that) + 'für' (for) = 'for that'."
     },
     {
       "source": "tagesschau",
       "cat": "National",
-      "url": "https://www.tagesschau.de/ausland/amerika/meta-prozess-eroeffnungsplaedoyers-100.html",
+      "url": "https://www.tagesschau.de/investigativ/ermittlungen-nordstream-generalbundesanwalt-100.html",
       "date": "2026-08-19",
-      "de": "Mehrere US-Bundesstaaten verklagen das Unternehmen Meta. Sie sagen: Meta macht junge Nutzer abhängig. Das betrifft zum Beispiel Instagram.",
-      "cn": "美国多个联邦州起诉 Meta 公司。它们说：Meta 让年轻用户上瘾。这涉及到例如 Instagram。",
+      "de": "Die Polizei hat einen weiteren Verdächtigen festgenommen. Er soll die Nord-Stream-Pipeline angegriffen haben. Die Ermittlungen dauern noch an.",
+      "cn": "警方逮捕了又一名嫌疑人。他应该（涉嫌）袭击了北溪管道。调查仍在进行中。",
       "words": [
-        {"w": "Mehrere", "m": "多个/若干（形容词，几个）", "pl": "—"},
-        {"w": "US-Bundesstaaten", "m": "美国联邦州（der Bundesstaat 男性，联邦州；US = 美国；复数 die Bundesstaaten）", "pl": "die Bundesstaaten"},
-        {"w": "verklagen", "m": "起诉（动词，控告/告上法庭）", "pl": "—"},
-        {"w": "das Unternehmen", "m": "这家公司（das Unternehmen 中性，公司/企业）", "pl": "die Unternehmen"},
-        {"w": "Meta", "m": "Meta 公司（专有名词，Instagram / Facebook 的母公司）", "pl": "—"},
-        {"w": "Sie sagen", "m": "它们说（sagen 说，动词，第三人称复数；Sie 它们，指各州）", "pl": "—"},
-        {"w": "macht", "m": "使/让（machen 做/使，第三人称单数；machen + 形容词 = 使变得）", "pl": "—", "note": "machen + Akk + adj = make sb/sth adj (causative)"},
-        {"w": "junge Nutzer", "m": "年轻用户（der Nutzer 男性，用户；jung 年轻的；复数 die Nutzer）", "pl": "die Nutzer"},
-        {"w": "abhängig", "m": "依赖的/上瘾的（形容词，abhängig von + 第三格 = 依赖于）", "pl": "—", "note": "abhängig + von (Dativ) = dependent on"},
-        {"w": "Das betrifft", "m": "这涉及到（betreffen 涉及/关系到，第三人称单数变音 betrifft）", "pl": "—"},
-        {"w": "zum Beispiel", "m": "例如（zum = zu dem；das Beispiel 中性，例子）", "pl": "die Beispiele", "note": "zum Beispiel = for example (fixed phrase)"},
-        {"w": "Instagram", "m": "Instagram（专有名词，社交平台）", "pl": "—"}
+        {"w": "Die Polizei", "m": "警方（die Polizei 女性，警察/警方，无复数）", "pl": "—"},
+        {"w": "hat … festgenommen", "m": "逮捕了（festnehmen 逮捕，现在完成时 hat festgenommen；可分动词前缀 fest- + nehmen）", "pl": "—", "note": "Perfekt of separable verb festnehmen"},
+        {"w": "einen weiteren Verdächtigen", "m": "又一名嫌疑人（der Verdächtige 男性，嫌疑人；ein 不定冠词；weiteren 进一步的/又一名，第四格）", "pl": "die Verdächtigen"},
+        {"w": "Er soll … angegriffen haben", "m": "他应该（涉嫌）袭击了（sollen 情态动词 + 完成时不定式；angegriffen haben = 袭击了，angreifen 袭击的过去分词）", "pl": "—", "note": "sollen + Perfekt-Infinitiv = reported/allegation"},
+        {"w": "die Nord-Stream-Pipeline", "m": "北溪管道（die Pipeline 女性，管道；Nord-Stream 北溪，专有名词）", "pl": "die Pipelines"},
+        {"w": "Die Ermittlungen", "m": "调查（die Ermittlung 女性，调查/侦查，复数 die Ermittlungen）", "pl": "die Ermittlungen"},
+        {"w": "dauern", "m": "持续（动词，持续/延续）", "pl": "—"},
+        {"w": "noch an", "m": "仍然/还在（noch 还/仍然；an 与 dauern 构成固定搭配 dauern an = 持续/进行中）", "pl": "—", "note": "dauern an = to continue (phrasal verb)"}
       ],
-      "grammar": "'verklagen' is a regular verb with the plural subject 'die US-Bundesstaaten' taking the -en ending. 'Meta macht junge Nutzer abhängig' — 'machen' + accusative object + adjective means 'to make someone adj.' (causative structure). 'zum Beispiel' is a fixed phrase meaning 'for example'. Everything is in present tense."
+      "grammar": "'hat … festgenommen' is Perfekt of the separable verb 'festnehmen' (the prefix 'fest-' moves to the end, participle 'festgenommen'). 'einen weiteren Verdächtigen' is Accusative (object of festnehmen). 'sollen + Perfekt-Infinitiv' (er soll … angegriffen haben) expresses reported speech / allegation ('he is said to have attacked'). 'die Ermittlungen' is plural, so 'dauern' stays in the plural form. 'noch an' — 'dauern an' is a fixed phrasal verb meaning 'to continue'."
     }
   ]
 }
