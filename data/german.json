@@ -1,71 +1,75 @@
 {
-  "updated": "2026-08-18",
+  "updated": "2026-08-19",
   "level": "A2",
   "mix": "Jena lokal · Einfache Deutsch · National",
   "items": [
     {
       "source": "Jenaer Nachrichten",
       "cat": "Jena lokal",
-      "url": "https://www.jenaer-nachrichten.de/stadtleben/29566-einschulung-in-jena-jena-zaehlt-erneut-weniger-schulanfaenger",
-      "date": "2026-08-18",
-      "de": "In Jena beginnt das neue Schuljahr. Dieses Jahr kommen nur 916 Kinder in die erste Klasse. Die Zahl der Schulanfaenger sinkt in Jena schon seit einigen Jahren.",
-      "cn": "耶拿开始了新学年。今年只有 916 个孩子进入一年级。耶拿的入学儿童数量几年来一直在下降。",
+      "url": "https://www.jenaer-nachrichten.de/stadtleben/29592-mittwoch-in-jena-kurzzeitige-vollsperrung-naumburger-strasse",
+      "date": "2026-08-19",
+      "de": "In Jena ist die Naumburger Straße am Mittwoch kurzzeitig gesperrt. Die Sperrung gilt von 7 bis 19 Uhr. Autofahrer müssen eine Umleitung benutzen.",
+      "cn": "在耶拿，瑙姆堡大街周三短时间内被封闭。封锁从 7 点持续到 19 点。开车的人必须走一条绕行路线。",
       "words": [
         {"w": "In Jena", "m": "在耶拿（in = 在；Jena 耶拿，图林根城市名，专有名词中性）", "pl": "—"},
-        {"w": "beginnt", "m": "开始（beginnen 的第三人称单数现在时，词尾 -t）", "pl": "—"},
-        {"w": "das neue Schuljahr", "m": "新学年（das Schuljahr 中性，学年；neu 新的）", "pl": "die Schuljahre"},
-        {"w": "Dieses Jahr", "m": "今年（dieses = 这个，指示代词；das Jahr 中性，年）", "pl": "die Jahre"},
-        {"w": "nur 916 Kinder", "m": "只有 916 个孩子（nur 只/仅仅；das Kind 中性，孩子，复数 die Kinder）", "pl": "die Kinder"},
-        {"w": "in die erste Klasse", "m": "进入一年级（die Klasse 女性，班级；erste 第一的；in + 第四格表示方向“进入”）", "pl": "die Klassen", "note": "in + Akkusativ for movement into"},
-        {"w": "Die Zahl", "m": "数量/数字（die Zahl 女性，数字/数量）", "pl": "die Zahlen"},
-        {"w": "der Schulanfaenger", "m": "入学儿童（der Schulanfaenger 男性，刚上学的孩子；Schule 学校 + Anfang 开始）", "pl": "die Schulanfaenger"},
-        {"w": "sinkt", "m": "下降（sinken 的第三人称单数；此处指数量减少/走低）", "pl": "—"},
-        {"w": "schon seit einigen Jahren", "m": "几年来一直（schon 已经；seit 自从/……以来，要求第三格；einige Jahre 几年）", "pl": "—", "note": "seit + Dativ = for/since (a duration up to now)"}
+        {"w": "ist … gesperrt", "m": "被封闭的（sein 第三人称单数 ist；gesperrt 封闭/封锁，过去分词作表语，构成状态被动）", "pl": "—", "note": "sein + Partizip II = Zustandspassiv (state passive)"},
+        {"w": "die Naumburger Straße", "m": "瑙姆堡大街（die Straße 女性，街道；Naumburger 瑙姆堡的，地名形容词）", "pl": "die Straßen"},
+        {"w": "am Mittwoch", "m": "在周三（der Mittwoch 男性，周三；am = an dem；an + 第三格表某个时间点）", "pl": "die Mittwoche", "note": "an + Dativ for a day/point in time"},
+        {"w": "kurzzeitig", "m": "短时间的/暂时的（kurz 短的 + zeitig 时间的）", "pl": "—"},
+        {"w": "Die Sperrung", "m": "封锁/封闭（die Sperrung 女性，来自动词 sperren 封锁）", "pl": "die Sperrungen"},
+        {"w": "gilt", "m": "有效/适用（gelten 有效/适用，第三人称单数；此处指封锁时间段生效）", "pl": "—"},
+        {"w": "von 7 bis 19 Uhr", "m": "从 7 点到 19 点（von…bis 从…到；die Uhr 女性，钟点/小时）", "pl": "die Uhren"},
+        {"w": "Autofahrer", "m": "开车的人/司机（der Autofahrer 男性，司机；Auto 汽车 + Fahrer 驾驶者）", "pl": "die Autofahrer"},
+        {"w": "müssen", "m": "必须（müssen 情态动词，此处复数加 -en；后接不定式）", "pl": "—", "note": "modal verb + infinitive at clause end"},
+        {"w": "eine Umleitung", "m": "一条绕行路线（die Umleitung 女性，绕道/改道；um 转 + Leitung 线路）", "pl": "die Umleitungen"},
+        {"w": "benutzen", "m": "使用（动词，使用/利用）", "pl": "—"}
       ],
-      "grammar": "Present tense: 'beginnt', 'kommen', 'sinkt' all take the 3rd-person singular -t ending. 'weniger' (fewer) carries the comparison. 'seit' + dative ('seit einigen Jahren') marks a duration continuing into the present — a common A2 time expression. 'in die erste Klasse' uses accusative because it expresses movement into a place."
+      "grammar": "'ist … gesperrt' is a state passive (Zustandspassiv) with 'sein' + past participle. 'am Mittwoch' uses 'an' + dative for a point in time (a day). 'von … bis' marks a time span. The modal verb 'müssen' pushes its infinitive 'benutzen' to the end of the clause. Plural subject 'Autofahrer' takes the -en verb ending."
     },
     {
       "source": "nachrichtenleicht (DLF)",
       "cat": "Einfache Deutsch",
-      "url": "https://www.nachrichtenleicht.de/auto-fahrer-umfrage-100.html",
-      "date": "2026-08-18",
-      "de": "Immer mehr Auto-Fahrer sind ungeduldig. Sie aergern sich schneller im Stau oder an der Ampel. Eine Studie zeigt: Die Geduld im Strassenverkehr wird weniger.",
-      "cn": "越来越多的开车人没有耐心。他们在堵车里或红绿灯前更快生气。一项研究表明：道路交通中的耐心正在变少。",
+      "url": "https://www.nachrichtenleicht.de/brand-geruch-deutschland-100.html",
+      "date": "2026-08-19",
+      "de": "In einigen Regionen in Deutschland riecht es nach Feuer. Der Geruch kommt von Waldbränden. Die Menschen bleiben lieber drinnen.",
+      "cn": "在德国的某些地区，空气里闻起来有火的味道。这气味来自森林火灾。人们宁愿待在屋里。",
       "words": [
-        {"w": "Immer mehr", "m": "越来越多（immer = 越来越；mehr = 更多）", "pl": "—"},
-        {"w": "der Auto-Fahrer", "m": "开车的人/司机（der Fahrer 男性，司机；Auto 汽车；复合词）", "pl": "die Auto-Fahrer"},
-        {"w": "sind ungeduldig", "m": "没有耐心（sein + ungeduldig 不耐烦的，形容词作表语；un- 否定前缀 + geduldig 有耐心的）", "pl": "—"},
-        {"w": "Sie aergern sich", "m": "他们生气（sich aergern 生气的反身动词；Sie 他们；sich 反身代词第四格）", "pl": "—", "note": "sich aergern = to get annoyed (reflexive, accusative)"},
-        {"w": "schneller", "m": "更快地（schnell 快的，比较级加 -er）", "pl": "—"},
-        {"w": "im Stau", "m": "在堵车中（der Stau 男性，堵车/拥堵；im = in dem）", "pl": "die Staus"},
-        {"w": "an der Ampel", "m": "在红绿灯处（die Ampel 女性，红绿灯/信号灯；an + 第三格表地点）", "pl": "die Ampeln", "note": "an + Dativ = at (a location)"},
-        {"w": "Eine Studie", "m": "一项研究（die Studie 女性，研究；eine 不定冠词）", "pl": "die Studien"},
-        {"w": "zeigt", "m": "显示（zeigen 的第三人称单数；show）", "pl": "—"},
-        {"w": "Die Geduld", "m": "耐心（die Geduld 女性，耐心；来自形容词 geduldig）", "pl": "—"},
-        {"w": "im Strassenverkehr", "m": "在道路交通中（der Verkehr 男性，交通；die Strasse 女性，街道；复合词 Strassenverkehr）", "pl": "—"},
-        {"w": "wird weniger", "m": "变少（werden 变得/变成；weniger 更少；werden 作实义动词“变得”）", "pl": "—"}
+        {"w": "In einigen Regionen", "m": "在若干地区（die Region 女性，地区；einige 一些/若干；in + 第三格表地点）", "pl": "die Regionen"},
+        {"w": "in Deutschland", "m": "在德国（Deutschland 德国，中性专有名词，无冠词）", "pl": "—"},
+        {"w": "riecht es", "m": "它闻起来（riechen 闻/散发气味，第三人称单数 riecht；es 形式主语，类似 es regnet“下雨”）", "pl": "—"},
+        {"w": "nach Feuer", "m": "有火的味道（nach 按照/有…的味道；das Feuer 中性，火）", "pl": "—", "note": "nach + Dativ expresses the source of a smell"},
+        {"w": "Der Geruch", "m": "气味（der Geruch 男性，气味；来自动词 riechen）", "pl": "die Gerüche"},
+        {"w": "kommt", "m": "来自/来（kommen 来，第三人称单数；此处指气味来自…）", "pl": "—"},
+        {"w": "von Waldbränden", "m": "来自森林火灾（der Waldbrand 男性，森林火灾；von + 第三格 = 来自；Wald 森林 + Brand 火灾；复数第三格 -en）", "pl": "die Waldbrände", "note": "von + Dativ = from"},
+        {"w": "Die Menschen", "m": "人们（der Mensch 男性，人，复数 die Menschen）", "pl": "die Menschen"},
+        {"w": "bleiben", "m": "停留/保持（动词，留下）", "pl": "—"},
+        {"w": "lieber", "m": "宁愿/更愿意（比较级，来自 gern 乐意；lieber = rather/preferably）", "pl": "—", "note": "lieber = comparative of gern"},
+        {"w": "drinnen", "m": "在屋里/在室内（副词，里面）", "pl": "—"}
       ],
-      "grammar": "Reflexive verb 'sich aergern' takes a reflexive pronoun in the accusative ('sich'). 'immer mehr' = increasingly many (a set comparative phrase). 'an der Ampel' uses 'an' + dative for location. 'werden' here is a full verb meaning 'to become' (Die Geduld ... wird weniger), not the future auxiliary."
+      "grammar": "'es riecht nach Feuer' uses impersonal 'es' as a formal subject (like English 'it smells'). 'nach' + dative expresses the source of a smell. 'von Waldbränden' uses 'von' + dative = from. 'lieber' is the comparative of 'gern' (rather / preferably). The whole text stays in present tense."
     },
     {
       "source": "tagesschau",
       "cat": "National",
-      "url": "https://www.tagesschau.de/inland/regional/hamburg/tarifstreit-warnstreik-in-seehaefen,seehaefen-112.html",
-      "date": "2026-08-18",
-      "de": "In deutschen Seehaefen gibt es einen Warnstreik. Die Hafen-Arbeiter wollen mehr Geld vom Arbeitgeber. Viele Schiffe muessen jetzt warten.",
-      "cn": "在德国的海港里发生了警告性罢工。港口工人想从雇主那里得到更多钱。许多船只现在必须等待。",
+      "url": "https://www.tagesschau.de/ausland/amerika/meta-prozess-eroeffnungsplaedoyers-100.html",
+      "date": "2026-08-19",
+      "de": "Mehrere US-Bundesstaaten verklagen das Unternehmen Meta. Sie sagen: Meta macht junge Nutzer abhängig. Das betrifft zum Beispiel Instagram.",
+      "cn": "美国多个联邦州起诉 Meta 公司。它们说：Meta 让年轻用户上瘾。这涉及到例如 Instagram。",
       "words": [
-        {"w": "In deutschen Seehaefen", "m": "在德国的海港里（der Seehafen 男性，海港；deutsch 德国的，复数第三格形容词词尾 -en；See 海 + Hafen 港口）", "pl": "die Seehaefen"},
-        {"w": "gibt es", "m": "有/存在（es gibt = 有/there is/are；geben 给；es 形式主语）", "pl": "—", "note": "es gibt + Akkusativ = there is/are"},
-        {"w": "einen Warnstreik", "m": "一次警告性罢工（der Streik 男性，罢工；Warnung 警告 + Streik；einen 第四格，因 es gibt 要求第四格）", "pl": "die Warnstreiks"},
-        {"w": "Die Hafen-Arbeiter", "m": "港口工人（der Arbeiter 男性，工人；der Hafen 男性，港口；复合词）", "pl": "die Hafen-Arbeiter"},
-        {"w": "wollen mehr Geld", "m": "想要更多钱（wollen 想要，情态动词；das Geld 中性，钱；mehr 更多）", "pl": "—"},
-        {"w": "vom Arbeitgeber", "m": "从雇主那里（der Arbeitgeber 男性，雇主；von + 第三格 = 从；vom = von dem）", "pl": "die Arbeitgeber", "note": "von + Dativ = from"},
-        {"w": "Viele Schiffe", "m": "许多船只（das Schiff 中性，船，复数 die Schiffe，以 -ff/-sch 结尾的名词复数常加 -e）", "pl": "die Schiffe"},
-        {"w": "muessen ... warten", "m": "必须等待（muessen 必须，情态动词；warten 等待，不定式放句末）", "pl": "—", "note": "modal verb + infinitive at clause end"},
-        {"w": "jetzt", "m": "现在（时间副词）", "pl": "—"}
+        {"w": "Mehrere", "m": "多个/若干（形容词，几个）", "pl": "—"},
+        {"w": "US-Bundesstaaten", "m": "美国联邦州（der Bundesstaat 男性，联邦州；US = 美国；复数 die Bundesstaaten）", "pl": "die Bundesstaaten"},
+        {"w": "verklagen", "m": "起诉（动词，控告/告上法庭）", "pl": "—"},
+        {"w": "das Unternehmen", "m": "这家公司（das Unternehmen 中性，公司/企业）", "pl": "die Unternehmen"},
+        {"w": "Meta", "m": "Meta 公司（专有名词，Instagram / Facebook 的母公司）", "pl": "—"},
+        {"w": "Sie sagen", "m": "它们说（sagen 说，动词，第三人称复数；Sie 它们，指各州）", "pl": "—"},
+        {"w": "macht", "m": "使/让（machen 做/使，第三人称单数；machen + 形容词 = 使变得）", "pl": "—", "note": "machen + Akk + adj = make sb/sth adj (causative)"},
+        {"w": "junge Nutzer", "m": "年轻用户（der Nutzer 男性，用户；jung 年轻的；复数 die Nutzer）", "pl": "die Nutzer"},
+        {"w": "abhängig", "m": "依赖的/上瘾的（形容词，abhängig von + 第三格 = 依赖于）", "pl": "—", "note": "abhängig + von (Dativ) = dependent on"},
+        {"w": "Das betrifft", "m": "这涉及到（betreffen 涉及/关系到，第三人称单数变音 betrifft）", "pl": "—"},
+        {"w": "zum Beispiel", "m": "例如（zum = zu dem；das Beispiel 中性，例子）", "pl": "die Beispiele", "note": "zum Beispiel = for example (fixed phrase)"},
+        {"w": "Instagram", "m": "Instagram（专有名词，社交平台）", "pl": "—"}
       ],
-      "grammar": "'es gibt' always takes the accusative ('einen Warnstreik'). Modal verbs 'wollen' and 'muessen' push their infinitive ('warten') to the end of the clause. 'von + dative' = from ('vom Arbeitgeber'). Plural of 'das Schiff' is 'die Schiffe' (nouns ending in -ff/-sch add -e in plural). Adjective ending '-en' after 'in deutschen Seehaefen' (plural dative)."
+      "grammar": "'verklagen' is a regular verb with the plural subject 'die US-Bundesstaaten' taking the -en ending. 'Meta macht junge Nutzer abhängig' — 'machen' + accusative object + adjective means 'to make someone adj.' (causative structure). 'zum Beispiel' is a fixed phrase meaning 'for example'. Everything is in present tense."
     }
   ]
 }

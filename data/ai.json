@@ -1,69 +1,69 @@
 {
-  "updated": "2026-08-18",
+  "updated": "2026-08-19",
   "items": [
     {
-      "title": "Anthropic 年化收入飙升至 650 亿美元",
-      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-      "summary": "AI 模型公司 Anthropic 的年化收入在两个月内增加了 180 亿美元，达到 650 亿美元。这显示大模型公司的商业增长非常迅速，也反映出企业和开发者对 Claude 等模型的需求强劲。",
-      "date": "2026-08-18",
+      "title": "AI 离治愈癌症还很远，这家初创说它知道还差什么",
+      "url": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+      "summary": "一家初创公司表示，AI 离真正治愈癌症还差得很远，但它清楚还缺什么条件——比如更高质量的临床数据和更严格的验证。这提醒人们对“AI 治癌”的炒作要保持理性。",
+      "date": "2026-08-19",
       "source": "TechCrunch",
-      "tag": "Anthropic · 营收 · Claude"
+      "tag": "AI · 医疗 · 癌症"
     },
     {
-      "title": "AI 自动化创业公司 Relay 关闭，团队加入 Google Chrome",
-      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-      "summary": "做 AI 工作流自动化的初创公司 Relay 宣布关闭，其创始人兼 CEO 表示团队将加入 Google 的 Chrome 团队，帮助用户在浏览器里用 AI 完成工作。这反映出 AI 应用赛道的整合与洗牌。",
-      "date": "2026-08-18",
+      "title": "Relativity Networks 融资 2200 万美元，把更快的光纤铺进数据中心",
+      "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+      "summary": "Relativity Networks 融资 2200 万美元，要把一种更快的光纤（空芯光纤）铺到数据中心，以降低 AI 训练与数据传输的延迟。AI 算力对网络速度的要求越来越高。",
+      "date": "2026-08-19",
       "source": "TechCrunch",
-      "tag": "Relay · Google · AI 自动化"
+      "tag": "Relativity · 融资 · 数据中心"
     },
     {
-      "title": "AI 视频公司 Higgsfield 完成 4 亿美元 B 轮融资",
-      "url": "https://techcrunch.com/2026/08/17/higgsfield-raises-400m-series-b-quadrupling-its-valuation-in-8-months-to-5-4b/",
-      "summary": "由前 Snap 高管创办的 Higgsfield 让用户用 AI 生成图片和视频，公司在 8 个月内估值翻两番达到 54 亿美元，并完成 4 亿美元 B 轮融资。生成式视频赛道持续吸金。",
-      "date": "2026-08-18",
+      "title": "Cursor 趁开发者对 GitHub 不满，推出 rival 代码托管平台",
+      "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+      "summary": "做 AI 编程工具 Cursor 的公司推出了一款类似 GitHub 的代码托管平台，趁开发者对 GitHub 的一些不满抢占市场。AI 编程赛道正从“编辑器”延伸到整套开发协作工具。",
+      "date": "2026-08-19",
       "source": "TechCrunch",
-      "tag": "Higgsfield · 融资 · AI 视频"
+      "tag": "Cursor · GitHub · AI 编程"
     },
     {
-      "title": "Groq 融资 3.5 亿美元，从 AI 芯片转向 neocloud",
-      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-      "summary": "原 AI 芯片公司 Groq 以 35 亿美元估值融资 3.5 亿美元，业务重点转向 neocloud（新型云算力），并扩大基于英伟达芯片的数据中心规模。AI 算力基础设施竞争加剧。",
-      "date": "2026-08-18",
+      "title": "Hugging Face 安全事件后，OpenAI 出台新保护措施",
+      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/",
+      "summary": "在一次涉及 Hugging Face（知名 AI 开源社区）的安全事件后，OpenAI 出台了新的安全措施，加强对模型权重和账号的保护。开源 AI 生态的安全问题受到更多关注。",
+      "date": "2026-08-19",
       "source": "TechCrunch",
-      "tag": "Groq · 融资 · AI 算力"
+      "tag": "OpenAI · 安全 · Hugging Face"
     },
     {
-      "title": "Amazon 被指销毁珍稀书籍以训练 AI",
-      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-      "summary": "据调查报道，Amazon 正在销毁稀有书籍用于训练 AI 模型。稀有书籍对训练大语言模型价值很高，因为网上已有内容几乎被学完。此举引发关于文化遗产与版权的争议。",
-      "date": "2026-08-18",
+      "title": "Etched 估值一个月内翻倍至 210 亿美元",
+      "url": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/",
+      "summary": "专门做 AI 推理芯片（Sohu）的初创公司 Etched 估值在一个月内翻倍到 210 亿美元。AI 专用芯片赛道持续火热，资本对“更快更便宜地跑大模型”的硬件十分追捧。",
+      "date": "2026-08-19",
       "source": "TechCrunch",
-      "tag": "Amazon · 数据 · 版权争议"
+      "tag": "Etched · 估值 · AI 芯片"
     },
     {
-      "title": "Google 医疗 AI AMIE 展示实时视频问诊能力",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-      "summary": "Google 研究的医疗 AI 系统 AMIE 在一项首创研究中展示了实时临床视频问诊能力。AMIE 能在模拟环境中与患者进行视频对话并给出初步评估，显示 AI 在远程医疗中的潜力。",
-      "date": "2026-08-18",
+      "title": "为什么苹果带摄像头的 AirPods 未必是用户担心的“偷拍 pods”",
+      "url": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+      "summary": "苹果计划推出带摄像头的 AirPods，引发“偷拍”担忧（被戏称为偷拍 pods）。文章解释其设计更可能用于 AR 和拍照辅助，并会配隐私保护，未必如人们担心的那样被滥用。",
+      "date": "2026-08-19",
+      "source": "TechCrunch",
+      "tag": "Apple · AirPods · 隐私"
+    },
+    {
+      "title": "Google 分享其面向 35.3 万人的 vibe coding 课程经验",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/",
+      "summary": "Google 分享了其面向 35.3 万人的“vibe coding”（用 AI 对话方式写代码）培训课程的经验。大规模推广 AI 辅助编程正成为企业提升开发效率的重要手段。",
+      "date": "2026-08-19",
       "source": "Google Blog",
-      "tag": "Google · AMIE · 医疗 AI"
+      "tag": "Google · Vibe Coding · 培训"
     },
     {
-      "title": "Gemini API 推出 Managed Agents：3.6 Flash、钩子等",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/",
-      "summary": "Google 在 Gemini API 的 Managed Agents 中新增更多能力，包括 3.6 Flash 模型、钩子（hooks）以及后台任务、远程 MCP 等，帮助开发者构建更可靠、可上生产的 AI 智能体。",
-      "date": "2026-08-18",
+      "title": "Gemini 携手 Pixel 与足球俱乐部，带来更沉浸的观赛体验",
+      "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/",
+      "summary": "Google 宣布 Gemini 与 Pixel 及足球俱乐部合作，用 AI 为球迷提供更身临其境的观赛体验，比如实时信息、个性化内容和影像功能。AI 正深入消费级娱乐场景。",
+      "date": "2026-08-19",
       "source": "Google Blog",
-      "tag": "Google · Gemini · 智能体"
-    },
-    {
-      "title": "Google 搜索 AI 模式帮你更好享受现实生活",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
-      "summary": "Google 介绍搜索中 AI Mode 的五种用法，帮助用户在离线现实世界中也更高效——比如订演唱会门票、查找本地活动等。AI 搜索不只是线上信息，也在连接真实生活场景。",
-      "date": "2026-08-18",
-      "source": "Google Blog",
-      "tag": "Google · AI 搜索 · 生活"
+      "tag": "Google · Gemini · Pixel"
     }
   ]
 }
