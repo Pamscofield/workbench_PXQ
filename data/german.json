@@ -1,71 +1,73 @@
 {
-  "updated": "2026-08-19",
+  "updated": "2026-08-20",
   "level": "A2",
   "mix": "Jena lokal · Einfache Deutsch · National",
   "items": [
     {
       "source": "Jenaer Nachrichten",
       "cat": "Jena lokal",
-      "url": "https://www.jenaer-nachrichten.de/stadtleben/29598-nachhaltig-ins-neue-schuljahr-moehrchenhefte-fuer-grundschueler-in-jena",
-      "date": "2026-08-19",
-      "de": "In Jena bekommen Grundschüler zum Schulstart nachhaltige Hefte. Die Stadt verteilt 2.001 Exemplare an die Kinder. Die Hefte sind aus Recycling-Papier und schonen die Umwelt.",
-      "cn": "在耶拿，小学生开学时会拿到可持续的练习本。市政府向孩子们发放了 2001 本。这些本子用再生纸做成，保护环境。",
+      "url": "https://www.jenaer-nachrichten.de/stadtleben/29591-kommunalservice-jena-begruesst-sieben-neue-auszubildende",
+      "date": "2026-08-20",
+      "de": "Der Kommunalservice Jena begrüßt sieben neue Auszubildende. Die jungen Leute beginnen im August ihre Ausbildung. Sie lernen Berufe wie Gärtner oder Mechaniker.",
+      "cn": "耶拿市政服务公司迎来了七名新学徒。这些年轻人八月开始他们的职业培训。他们学习园丁或技工等职业。",
       "words": [
-        {"w": "In Jena", "m": "在耶拿（in = 在；Jena 耶拿，图林根城市名，专有名词中性）", "pl": "—"},
-        {"w": "bekommen", "m": "得到/收到（动词，规则变化：er/sie/es bekommt；此处复数 bekommen）", "pl": "—"},
-        {"w": "die Grundschüler", "m": "小学生（der Grundschüler 男性，小学生；Grundschule 小学 + Schüler 学生，复数 die Grundschüler）", "pl": "die Grundschüler"},
-        {"w": "zum Schulstart", "m": "在开学时（zum = zu dem；der Schulstart 男性，开学/学期开始）", "pl": "die Schulstarts", "note": "zu + Dativ as a temporal phrase"},
-        {"w": "nachhaltige Hefte", "m": "可持续的练习本（nachhaltig 可持续的，形容词；das Heft 中性，本子/练习册，复数 die Hefte）", "pl": "die Hefte"},
-        {"w": "Die Stadt", "m": "这座城市/市政府（die Stadt 女性，城市）", "pl": "die Städte"},
-        {"w": "verteilt", "m": "分发/发放（verteilen 分发，第三人称单数 verteilt）", "pl": "—"},
-        {"w": "2.001 Exemplare", "m": "2001 本/册（das Exemplar 中性，本/册/样本，复数 die Exemplare）", "pl": "die Exemplare"},
-        {"w": "an die Kinder", "m": "给孩子们（das Kind 中性，孩子，复数 die Kinder；an + 第四格表接收者‘给’）", "pl": "die Kinder", "note": "an + Akkusativ = to (recipient)"},
-        {"w": "aus Recycling-Papier", "m": "由再生纸制成（das Recycling-Papier 中性，再生纸；aus + 第三格表材料‘由…制成’）", "pl": "—", "note": "aus + Dativ = made of"},
-        {"w": "schonen", "m": "保护/爱护/节约（动词，此处指不伤害、保护）", "pl": "—"},
-        {"w": "die Umwelt", "m": "环境（die Umwelt 女性，环境，无复数）", "pl": "—"}
+        {"w": "Der Kommunalservice", "m": "市政服务公司（der Service 男性，服务；此处指耶拿的城市服务/市政公司）", "pl": "die Services"},
+        {"w": "begrüßt", "m": "欢迎（begrüßen 欢迎，规则动词，第三人称单数 begrüßt）", "pl": "—"},
+        {"w": "sieben neue Auszubildende", "m": "七名新学徒（der Auszubildende 男性，学徒/培训生；sieben 七；neue 新的，第四格复数加 -e）", "pl": "die Auszubildenden", "note": "weak noun: masc. pl. takes -en in Accusative"},
+        {"w": "Die jungen Leute", "m": "这些年轻人（jung 年轻的；die Leute 人们/年轻人，复数，无单数冠词变化）", "pl": "—"},
+        {"w": "beginnen", "m": "开始（动词，不规则：er/sie/es beginnt；此处复数 beginnen）", "pl": "—"},
+        {"w": "im August", "m": "在八月（der August 男性，八月；im = in dem，in + 第三格表时间'在…月里'）", "pl": "—", "note": "in + Dativ = month (when)"},
+        {"w": "ihre Ausbildung", "m": "他们的职业培训（die Ausbildung 女性，职业培训/培训；ihre 他们的，第四格）", "pl": "die Ausbildungen"},
+        {"w": "Sie lernen", "m": "他们学习（lernen 学习，规则动词，复数 lernen）", "pl": "—"},
+        {"w": "Berufe", "m": "职业（der Beruf 男性，职业，复数 die Berufe）", "pl": "die Berufe"},
+        {"w": "wie Gärtner oder Mechaniker", "m": "比如园丁或技工（wie 比如/像；der Gärtner 男性，园丁；oder 或者；der Mechaniker 男性，技工/机械师）", "pl": "die Gärtner / die Mechaniker"}
       ],
-      "grammar": "'bekommen' is a regular verb (plural 'bekommen' with the plural subject 'die Grundschüler'). 'zum Schulstart' uses 'zu + Dativ' as a temporal phrase ('at the start of school'). 'aus Recycling-Papier' uses 'aus' + Dative to express material ('made of'). 'an die Kinder' uses 'an' + Accusative for the indirect recipient ('to the children'). The plural noun 'die Hefte' has the same form in nominative and accusative."
+      "grammar": "'begrüßt' is the 3rd-person singular present of the regular verb 'begrüßen'. 'im August' = 'in dem August' uses 'in' + Dative for a month (when). 'sieben neue Auszubildende' is Accusative (direct object of begrüßen) — note the weak-noun ending '-en' on the masculine plural after 'neue'. 'ihre Ausbildung' is Accusative (object of beginnen). The plural verbs 'beginnen' and 'lernen' agree with their plural subjects."
     },
     {
       "source": "nachrichtenleicht (DLF)",
       "cat": "Einfache Deutsch",
-      "url": "https://www.nachrichtenleicht.de/russland-jabloko-verbot-100.html",
-      "date": "2026-08-19",
-      "de": "Ein russischer Politiker muss in ein Straflager. Er hat den Krieg in der Ukraine kritisiert. Die Regierung in Russland bestraft ihn dafür.",
-      "cn": "一位俄罗斯政治家必须进劳改营。他批评了乌克兰的战争。俄罗斯的政府为此惩罚他。",
+      "url": "https://www.nachrichtenleicht.de/hitzeschutz-grundgesetz-100.html",
+      "date": "2026-08-20",
+      "de": "SPD-Minister sagen: Der Hitze-Schutz muss im Grundgesetz stehen. Die Minister wollen den Schutz vor großer Hitze im Gesetz festhalten. Viele Menschen leiden im Sommer unter der Hitze.",
+      "cn": "社民党的部长们说：防暑保护必须写进基本法。部长们想把防酷热的保护写进法律。许多人在夏天受高温之苦。",
       "words": [
-        {"w": "Ein russischer Politiker", "m": "一位俄罗斯政治家（der Politiker 男性，政治家；russisch 俄罗斯的；ein 不定冠词 阳性）", "pl": "die Politiker"},
-        {"w": "muss", "m": "必须（müssen 情态动词，第三人称单数 muss；后接不定式，此处‘进’gehen 省略）", "pl": "—", "note": "modal verb + (implied) infinitive"},
-        {"w": "in ein Straflager", "m": "进一个劳改营（das Straflager 中性，劳改营/惩罚营；in + 第四格表方向‘进到…里’）", "pl": "die Straflager", "note": "in + Akkusativ = direction into"},
-        {"w": "Er hat … kritisiert", "m": "他批评了（kritisieren 批评，现在完成时 hat kritisiert；er 他，第三人称单数）", "pl": "—", "note": "Perfekt: haben + Partizip II"},
-        {"w": "den Krieg", "m": "这场战争（der Krieg 男性，战争；第四格作 kritisieren 的宾语）", "pl": "die Kriege"},
-        {"w": "in der Ukraine", "m": "在乌克兰（die Ukraine 女性，乌克兰；in + 第三格表地点‘在…里’）", "pl": "—", "note": "in + Dativ = location where"},
-        {"w": "Die Regierung", "m": "政府（die Regierung 女性，政府）", "pl": "die Regierungen"},
-        {"w": "in Russland", "m": "在俄罗斯（Russland 中性，俄罗斯，专有名词无冠词）", "pl": "—"},
-        {"w": "bestraft", "m": "惩罚（bestrafen 惩罚，第三人称单数 bestraft）", "pl": "—"},
-        {"w": "ihn", "m": "他（人称代词 er 的第四格形式，作 bestrafen 的宾语）", "pl": "—", "note": "Accusative personal pronoun"},
-        {"w": "dafür", "m": "为此/因为这件事（da + für = 为此；da 指代前文‘批评战争’这件事）", "pl": "—", "note": "da(r)-prefix pronoun + für"}
+        {"w": "SPD-Minister", "m": "社民党部长（die SPD 女性，社民党/德国社会民主党；der Minister 男性，部长，复数 die Minister）", "pl": "die Minister"},
+        {"w": "sagen", "m": "说（sagen 说，规则动词，复数 sagen）", "pl": "—"},
+        {"w": "Der Hitze-Schutz", "m": "防暑保护/防热措施（der Schutz 男性，保护；Hitze 炎热）", "pl": "die Schutz-", "note": "compound noun: Hitze + Schutz"},
+        {"w": "muss", "m": "必须（müssen 情态动词，第三人称单数 muss；后接不定式 stehen 放句末）", "pl": "—", "note": "modal verb + infinitive at clause end"},
+        {"w": "im Grundgesetz", "m": "在基本法里（das Grundgesetz 中性，基本法/德国宪法；im = in dem，in + 第三格表地点'在…里'）", "pl": "die Grundgesetze", "note": "in + Dativ = location (where)"},
+        {"w": "stehen", "m": "站立/位于/写明（stehen 站/处在，此处指'载入/写进'；与 muss 连用放句末）", "pl": "—"},
+        {"w": "Die Minister", "m": "部长们（der Minister 男性，复数 die Minister）", "pl": "die Minister"},
+        {"w": "wollen", "m": "想要（wollen 情态动词，复数 wollen；后接不定式 festhalten 放句末）", "pl": "—", "note": "modal verb + infinitive at clause end"},
+        {"w": "den Schutz vor großer Hitze", "m": "对酷热的保护（der Schutz 男性，第四格；vor + 第三格表'防/在…之前'；groß 大的，第三格 großer；die Hitze 女性，炎热）", "pl": "—", "note": "vor + Dativ = protection from"},
+        {"w": "im Gesetz festhalten", "m": "写进法律/固定下来（das Gesetz 中性，法律；festhalten 抓住/固定，可分动词）", "pl": "die Gesetze"},
+        {"w": "Viele Menschen", "m": "许多人（der Mensch 男性，人，复数 die Menschen；viele 许多）", "pl": "die Menschen"},
+        {"w": "leiden", "m": "受苦/遭受（leiden 忍受/受…苦，动词）", "pl": "—"},
+        {"w": "unter der Hitze", "m": "在高温之下（unter + 第三格表'在…之下'；die Hitze 女性）", "pl": "—", "note": "unter + Dativ = under"}
       ],
-      "grammar": "'muss' is the modal verb 'müssen' (must) — its infinitive ('in ein Straflager gehen') is implied at the end. 'Er hat … kritisiert' is Perfekt with 'haben' + past participle. 'den Krieg' is Accusative (direct object of kritisieren). 'in der Ukraine' uses 'in' + Dative for location (where). 'ihn' is the Accusative personal pronoun replacing 'den Politiker'. 'dafür' = 'da' (there/that) + 'für' (for) = 'for that'."
+      "grammar": "'muss' and 'wollen' are modal verbs — their infinitives ('stehen', 'festhalten') move to the end of the clause. 'im Grundgesetz' = 'in dem Grundgesetz' uses 'in' + Dative for location (where). 'vor großer Hitze' uses 'vor' + Dative ('protection from'). 'unter der Hitze' uses 'unter' + Dative ('under the heat'). Plural subjects ('SPD-Minister', 'Die Minister', 'Viele Menschen') take plural verbs ('sagen', 'wollen', 'leiden')."
     },
     {
       "source": "tagesschau",
       "cat": "National",
-      "url": "https://www.tagesschau.de/investigativ/ermittlungen-nordstream-generalbundesanwalt-100.html",
-      "date": "2026-08-19",
-      "de": "Die Polizei hat einen weiteren Verdächtigen festgenommen. Er soll die Nord-Stream-Pipeline angegriffen haben. Die Ermittlungen dauern noch an.",
-      "cn": "警方逮捕了又一名嫌疑人。他应该（涉嫌）袭击了北溪管道。调查仍在进行中。",
+      "url": "https://www.tagesschau.de/ausland/amerika/medizin-hautkrebs-studi-impfstoff-100.html",
+      "date": "2026-08-20",
+      "de": "Eine Studie war erfolgreich. Sie gibt Hoffnung auf einen Impfstoff gegen schwarzen Hautkrebs. Der Impfstoff soll Menschen vor der Krankheit schützen.",
+      "cn": "一项研究取得了成功。它带来了对一种抗黑色素瘤（黑色皮肤癌）疫苗的希望。这种疫苗应当保护人们免受这种疾病侵害。",
       "words": [
-        {"w": "Die Polizei", "m": "警方（die Polizei 女性，警察/警方，无复数）", "pl": "—"},
-        {"w": "hat … festgenommen", "m": "逮捕了（festnehmen 逮捕，现在完成时 hat festgenommen；可分动词前缀 fest- + nehmen）", "pl": "—", "note": "Perfekt of separable verb festnehmen"},
-        {"w": "einen weiteren Verdächtigen", "m": "又一名嫌疑人（der Verdächtige 男性，嫌疑人；ein 不定冠词；weiteren 进一步的/又一名，第四格）", "pl": "die Verdächtigen"},
-        {"w": "Er soll … angegriffen haben", "m": "他应该（涉嫌）袭击了（sollen 情态动词 + 完成时不定式；angegriffen haben = 袭击了，angreifen 袭击的过去分词）", "pl": "—", "note": "sollen + Perfekt-Infinitiv = reported/allegation"},
-        {"w": "die Nord-Stream-Pipeline", "m": "北溪管道（die Pipeline 女性，管道；Nord-Stream 北溪，专有名词）", "pl": "die Pipelines"},
-        {"w": "Die Ermittlungen", "m": "调查（die Ermittlung 女性，调查/侦查，复数 die Ermittlungen）", "pl": "die Ermittlungen"},
-        {"w": "dauern", "m": "持续（动词，持续/延续）", "pl": "—"},
-        {"w": "noch an", "m": "仍然/还在（noch 还/仍然；an 与 dauern 构成固定搭配 dauern an = 持续/进行中）", "pl": "—", "note": "dauern an = to continue (phrasal verb)"}
+        {"w": "Eine Studie", "m": "一项研究（die Studie 女性，研究/调查；eine 不定冠词 阴性）", "pl": "die Studien"},
+        {"w": "war erfolgreich", "m": "是成功的/取得了成功（sein 的过去时 war；erfolgreich 成功的，形容词）", "pl": "—", "note": "war = Präteritum of sein"},
+        {"w": "Sie gibt Hoffnung", "m": "它带来希望（geben 给/带来，第三人称单数 gibt；die Hoffnung 女性，希望）", "pl": "die Hoffnungen"},
+        {"w": "auf einen Impfstoff", "m": "对一种疫苗（der Impfstoff 男性，疫苗；auf + 第四格表'朝向/对'；einen 不定冠词第四格）", "pl": "die Impfstoffe", "note": "auf + Akkusativ = toward"},
+        {"w": "gegen schwarzen Hautkrebs", "m": "对抗黑色皮肤癌（gegen + 第四格表'对抗'；schwarz 黑色的，第四格 schwarzen；der Hautkrebs 男性，皮肤癌）", "pl": "die Hautkrebse", "note": "gegen + Akkusativ = against"},
+        {"w": "Der Impfstoff", "m": "这种疫苗（der Impfstoff 男性）", "pl": "die Impfstoffe"},
+        {"w": "soll", "m": "应当/应该（sollen 情态动词，第三人称单数 soll；后接不定式 schützen 放句末）", "pl": "—", "note": "modal verb + infinitive at clause end"},
+        {"w": "Menschen", "m": "人们（der Mensch 男性，复数 die Menschen）", "pl": "die Menschen"},
+        {"w": "vor der Krankheit", "m": "免受这种疾病（vor + 第三格表'在…之前/防'；die Krankheit 女性，疾病）", "pl": "die Krankheiten", "note": "vor + Dativ = protection from"},
+        {"w": "schützen", "m": "保护（schützen 保护，动词，与 soll 连用放句末）", "pl": "—"}
       ],
-      "grammar": "'hat … festgenommen' is Perfekt of the separable verb 'festnehmen' (the prefix 'fest-' moves to the end, participle 'festgenommen'). 'einen weiteren Verdächtigen' is Accusative (object of festnehmen). 'sollen + Perfekt-Infinitiv' (er soll … angegriffen haben) expresses reported speech / allegation ('he is said to have attacked'). 'die Ermittlungen' is plural, so 'dauern' stays in the plural form. 'noch an' — 'dauern an' is a fixed phrasal verb meaning 'to continue'."
+      "grammar": "'war' is the past tense (Präteritum) of 'sein' (to be) — 'eine Studie war erfolgreich'. 'soll' is the modal verb 'sollen' (should) — its infinitive 'schützen' goes to the end of the clause. 'auf einen Impfstoff' uses 'auf' + Accusative (direction toward). 'gegen schwarzen Hautkrebs' uses 'gegen' + Accusative (against). 'vor der Krankheit' uses 'vor' + Dative (protection from)."
     }
   ]
 }

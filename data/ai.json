@@ -1,69 +1,61 @@
 {
-  "updated": "2026-08-19",
+  "updated": "2026-08-20",
   "items": [
     {
-      "title": "英伟达联手高盛、贝莱德，把 GPU 算力包装成金融资产",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
-      "summary": "英伟达正与高盛、贝莱德合作，把 GPU 算力包装成一种可投资的金融资产。AI 训练对算力的巨大需求，正催生新的金融工具和商业模式。",
+      "title": "Meta AI 推出 Mac 桌面应用，能直接操作你电脑上的其他应用",
+      "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
+      "summary": "Meta 推出新的 Mac 桌面应用，让 Meta AI 能直接操作你电脑上的其他应用——用语音或文字让它帮你读文件、发消息、整理资料。AI 助手正从聊天框走向真正的'电脑操作员'。",
+      "date": "2026-08-20",
+      "source": "TechCrunch",
+      "tag": "Meta · AI 助手 · 桌面应用"
+    },
+    {
+      "title": "Binance 开放接口，让 AI 智能体直接替用户交易",
+      "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+      "summary": "加密货币交易所 Binance 开放接口，让 AI 智能体（agent）可以直接替用户交易。但平台表示，如何约束这些自动交易的 AI、控制风险，主要还是由用户自己负责。AI 金融自动化的边界引发讨论。",
+      "date": "2026-08-20",
+      "source": "TechCrunch",
+      "tag": "Binance · AI Agent · 自动交易"
+    },
+    {
+      "title": "Slack 推出协作式'氛围编程'(vibe coding)频道",
+      "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
+      "summary": "Slack 推出协作式'氛围编程'(vibe coding)频道，团队成员可以在一个聊天频道里一起用 AI 写代码、边聊边生成程序。AI 编程正从个人工具变成团队协同功能。",
+      "date": "2026-08-20",
+      "source": "The Verge",
+      "tag": "Slack · Vibe Coding · 团队协作"
+    },
+    {
+      "title": "Google Gemini 上线专门的'学生中心'",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+      "summary": "Google 给 Gemini 上线专门的'学生中心'，把学习相关的 AI 工具集中到一个入口，帮助学生做笔记、复习、答疑。各大厂商正把 AI 助手深度嵌入教育场景。",
       "date": "2026-08-19",
       "source": "The Verge",
-      "tag": "Nvidia · GPU · 算力金融"
+      "tag": "Gemini · 学生中心 · 教育"
     },
     {
-      "title": "罗宾·威廉姆斯‘复活’的 Instagram 账号，被用来对抗 AI 滥用",
-      "url": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
-      "summary": "已故演员罗宾·威廉姆斯的 Instagram 账号被‘复活’，目的是反击深度伪造等 AI 滥用行为。此事引发关于逝者形象与 AI 伦理的讨论。",
-      "date": "2026-08-19",
-      "source": "The Verge",
-      "tag": "AI · 深度伪造 · 伦理"
-    },
-    {
-      "title": "ChatGPT 广告业务扩展到欧洲 31 个市场",
-      "url": "https://openai.com/index/chatgpt-ads-expands-across-europe",
-      "summary": "OpenAI 将 ChatGPT 广告业务扩展到 31 个欧洲市场，让广告主能在用户探索、比较和做决定的环节触达用户。AI 聊天产品的商业化步伐正在加快。",
+      "title": "OpenAI 为前沿模型提供'零数据留存'选项",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+      "summary": "OpenAI 宣布为前沿模型提供'零数据留存'(Zero Data Retention)选项，并预览'私有安全处理'功能，让企业客户在使用高级模型时不必担心数据被用于训练或被留存。AI 数据隐私成为竞争焦点。",
       "date": "2026-08-19",
       "source": "OpenAI Blog",
-      "tag": "ChatGPT · 广告 · 商业化"
+      "tag": "OpenAI · 数据隐私 · Zero Data Retention"
     },
     {
-      "title": "OpenAI 推出计划，加强 AI 在国家安全领域的民主监督",
-      "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
-      "summary": "OpenAI 启动一项倡议，旨在加强 AI 用于国家安全时的民主监督，向政府机构提供工具、培训和专业知识。AI 军事化应用引发更多治理关注。",
+      "title": "Google 在搜索和 Gemini 中加入新的 AI 学习工具",
+      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+      "summary": "Google 在搜索和 Gemini 中加入新的 AI 学习工具，比如把复杂题目拆成步骤、生成练习题、用对话方式讲解概念，帮学生更高效地复习。AI 正在重塑'搜索即辅导'的体验。",
       "date": "2026-08-19",
-      "source": "OpenAI Blog",
-      "tag": "OpenAI · 国家安全 · AI 治理"
+      "source": "Google Blog",
+      "tag": "Google · AI 学习工具 · Search"
     },
     {
-      "title": "OpenAI 推出面向青少年的 ChatGPT，主打学习与保护",
-      "url": "https://openai.com/index/chatgpt-for-teens",
-      "summary": "OpenAI 推出专为青少年设计的 ChatGPT 版本，强调学习用途并配备年龄保护措施。面向未成年人的 AI 产品如何兼顾可用与安全成为焦点。",
+      "title": "TerraPower 的新型核反应堆专为 AI 数据中心供电",
+      "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+      "summary": "比尔·盖茨支持的 TerraPower 正在建造新型核反应堆，专门给 AI 数据中心供电。其'秘密武器'是一种能高效储热的设计，可在用电高峰稳定输出电力。AI 算力扩张正倒逼能源基础设施升级。",
       "date": "2026-08-19",
-      "source": "OpenAI Blog",
-      "tag": "ChatGPT · 青少年 · 保护"
-    },
-    {
-      "title": "OpenAI 联手 CodeAI，培养‘第一代 AI 原生人才’",
-      "url": "https://openai.com/index/partnering-with-codeai",
-      "summary": "OpenAI 与 CodeAI 合作，准备培养第一代‘AI 原生’人才，把 AI 素养纳入教育体系。如何让人从小掌握 AI 工具，正成为各国教育的新课题。",
-      "date": "2026-08-19",
-      "source": "OpenAI Blog",
-      "tag": "OpenAI · 教育 · 人才培养"
-    },
-    {
-      "title": "英伟达用 ChatGPT Work 放大员工专长",
-      "url": "https://openai.com/index/nvidia/chatgpt-work",
-      "summary": "英伟达通过 ChatGPT Work 让员工的专业知识被更大范围复用，提升内部协作与效率。大企业正把 AI 助手深度嵌入日常工作流。",
-      "date": "2026-08-19",
-      "source": "OpenAI Blog",
-      "tag": "Nvidia · 企业 AI · 效率"
-    },
-    {
-      "title": "Asana 用 Codex 两周干完五年工程积压",
-      "url": "https://openai.com/index/asana",
-      "summary": "项目管理公司 Asana 借助 OpenAI 的 Codex 编程助手，在两周内清理完相当于五年的工程积压任务。AI 编程正在显著压缩软件交付周期。",
-      "date": "2026-08-19",
-      "source": "OpenAI Blog",
-      "tag": "Codex · AI 编程 · 提效"
+      "source": "TechCrunch",
+      "tag": "TerraPower · 核能 · AI 数据中心供电"
     }
   ]
 }
