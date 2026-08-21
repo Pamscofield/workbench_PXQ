@@ -1,61 +1,69 @@
 {
-  "updated": "2026-08-20",
+  "updated": "2026-08-21",
   "items": [
     {
-      "title": "Meta AI 推出 Mac 桌面应用，能直接操作你电脑上的其他应用",
-      "url": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
-      "summary": "Meta 推出新的 Mac 桌面应用，让 Meta AI 能直接操作你电脑上的其他应用——用语音或文字让它帮你读文件、发消息、整理资料。AI 助手正从聊天框走向真正的'电脑操作员'。",
-      "date": "2026-08-20",
+      "title": "ChatGPT 新版可通过 Apple Messages 插件直接替你发短信",
+      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
+      "summary": "ChatGPT 推出新的 Apple Messages 插件，现在可以直接替你发 iMessage 短信——你告诉它内容，它帮你发出。AI 助手正深入操作系统级功能，从'回答问题'走向'替你办事'。",
+      "date": "2026-08-21",
       "source": "TechCrunch",
-      "tag": "Meta · AI 助手 · 桌面应用"
+      "tag": "ChatGPT · Apple Messages · 发短信"
     },
     {
-      "title": "Binance 开放接口，让 AI 智能体直接替用户交易",
-      "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
-      "summary": "加密货币交易所 Binance 开放接口，让 AI 智能体（agent）可以直接替用户交易。但平台表示，如何约束这些自动交易的 AI、控制风险，主要还是由用户自己负责。AI 金融自动化的边界引发讨论。",
-      "date": "2026-08-20",
+      "title": "新数据：OpenAI 在企业用户市场正追赶 Anthropic",
+      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
+      "summary": "新数据显示，在企业用户市场，OpenAI 正在追赶 Anthropic。过去 Anthropic 在企业圈更受欢迎，如今 ChatGPT 的企业版使用量快速上升。两大模型公司的商业竞争愈发激烈。",
+      "date": "2026-08-21",
       "source": "TechCrunch",
-      "tag": "Binance · AI Agent · 自动交易"
+      "tag": "OpenAI · Anthropic · 企业用户"
     },
     {
-      "title": "Slack 推出协作式'氛围编程'(vibe coding)频道",
-      "url": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
-      "summary": "Slack 推出协作式'氛围编程'(vibe coding)频道，团队成员可以在一个聊天频道里一起用 AI 写代码、边聊边生成程序。AI 编程正从个人工具变成团队协同功能。",
-      "date": "2026-08-20",
-      "source": "The Verge",
-      "tag": "Slack · Vibe Coding · 团队协作"
+      "title": "Google 给出版商新工具，应对 AI 抢走网站流量",
+      "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+      "summary": "Google 给新闻出版商提供了一个新工具，帮助它们应对 AI 搜索抢走网站流量的问题。出版商可在内容里标注，让 AI 概览更清楚地链回原文。AI 时代媒体如何保住读者成焦点。",
+      "date": "2026-08-21",
+      "source": "TechCrunch",
+      "tag": "Google · 出版商 · 流量"
     },
     {
-      "title": "Google Gemini 上线专门的'学生中心'",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
-      "summary": "Google 给 Gemini 上线专门的'学生中心'，把学习相关的 AI 工具集中到一个入口，帮助学生做笔记、复习、答疑。各大厂商正把 AI 助手深度嵌入教育场景。",
-      "date": "2026-08-19",
-      "source": "The Verge",
-      "tag": "Gemini · 学生中心 · 教育"
+      "title": "xAI 的 Grok 持续向用户发送乱码回复",
+      "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+      "summary": "xAI 的聊天机器人 Grok 持续向部分用户发送乱码和无意义的回复。问题出现数小时仍未完全修复，引发对大模型稳定性的质疑。AI 可靠性仍是落地难点。",
+      "date": "2026-08-21",
+      "source": "TechCrunch",
+      "tag": "Grok · xAI · 乱码回复"
     },
     {
-      "title": "OpenAI 为前沿模型提供'零数据留存'选项",
-      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "summary": "OpenAI 宣布为前沿模型提供'零数据留存'(Zero Data Retention)选项，并预览'私有安全处理'功能，让企业客户在使用高级模型时不必担心数据被用于训练或被留存。AI 数据隐私成为竞争焦点。",
-      "date": "2026-08-19",
-      "source": "OpenAI Blog",
-      "tag": "OpenAI · 数据隐私 · Zero Data Retention"
+      "title": "Ramp 推出自家 AI 模型路由器 'Router'",
+      "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+      "summary": "财务自动化公司 Ramp 推出自家的 AI 模型路由器'Router'，可自动在多个大模型之间切换，按任务选最便宜又最合适的模型。模型路由正成为 AI 应用的新基础设施。",
+      "date": "2026-08-21",
+      "source": "TechCrunch",
+      "tag": "Ramp · 模型路由 · Router"
     },
     {
-      "title": "Google 在搜索和 Gemini 中加入新的 AI 学习工具",
-      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
-      "summary": "Google 在搜索和 Gemini 中加入新的 AI 学习工具，比如把复杂题目拆成步骤、生成练习题、用对话方式讲解概念，帮学生更高效地复习。AI 正在重塑'搜索即辅导'的体验。",
-      "date": "2026-08-19",
+      "title": "AI 训练数据创业公司 Micro1 年化营收达 5 亿美元",
+      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+      "summary": "AI 训练数据创业公司 Micro1 年化总收入达到 5 亿美元。随着各大公司疯狂训练大模型，高质量'人工标注数据'需求暴涨，数据供应商成了 AI 产业链里赚钱的一环。",
+      "date": "2026-08-21",
+      "source": "TechCrunch",
+      "tag": "Micro1 · 训练数据 · 营收"
+    },
+    {
+      "title": "Meta 推出 Pocket：用氛围编程做小游戏并分享",
+      "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+      "summary": "Meta 把 Pocket 应用带到美国用户面前——这款应用让你用'氛围编程'(vibe coding)的方式做小游戏，并能一键分享给朋友。AI 编程正从工作工具变成大众娱乐。",
+      "date": "2026-08-21",
+      "source": "TechCrunch",
+      "tag": "Meta · Pocket · Vibe Coding"
+    },
+    {
+      "title": "Google 医疗 AI 系统 AMIE 展示实时视频问诊能力",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
+      "summary": "Google 的研究型医疗 AI 系统 AMIE 在一项首创研究中展示了实时视频问诊能力——能通过视频和患者交流、做临床咨询。AI 医生助理离真实诊室又近了一步。",
+      "date": "2026-08-21",
       "source": "Google Blog",
-      "tag": "Google · AI 学习工具 · Search"
-    },
-    {
-      "title": "TerraPower 的新型核反应堆专为 AI 数据中心供电",
-      "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
-      "summary": "比尔·盖茨支持的 TerraPower 正在建造新型核反应堆，专门给 AI 数据中心供电。其'秘密武器'是一种能高效储热的设计，可在用电高峰稳定输出电力。AI 算力扩张正倒逼能源基础设施升级。",
-      "date": "2026-08-19",
-      "source": "TechCrunch",
-      "tag": "TerraPower · 核能 · AI 数据中心供电"
+      "tag": "Google · AMIE · 医疗 AI"
     }
   ]
 }
