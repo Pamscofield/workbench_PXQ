@@ -1,69 +1,61 @@
 {
-  "updated": "2026-08-21",
+  "updated": "2026-09-12",
   "items": [
     {
-      "title": "ChatGPT 新版可通过 Apple Messages 插件直接替你发短信",
-      "url": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-      "summary": "ChatGPT 推出新的 Apple Messages 插件，现在可以直接替你发 iMessage 短信——你告诉它内容，它帮你发出。AI 助手正深入操作系统级功能，从'回答问题'走向'替你办事'。",
-      "date": "2026-08-21",
+      "title": "OpenAI announces new reasoning capabilities for enterprise models",
+      "url": "https://techcrunch.com/2026/09/11/openai-enterprise-reasoning-update/",
+      "summary": "OpenAI 宣布为其企业级模型引入全新推理能力，可大幅提升复杂商业逻辑分析与代码编写的准确率。企业市场竞争进一步白热化。",
+      "date": "2026-09-12",
       "source": "TechCrunch",
-      "tag": "ChatGPT · Apple Messages · 发短信"
+      "tag": "OpenAI · 企业模型 · 推理能力"
     },
     {
-      "title": "新数据：OpenAI 在企业用户市场正追赶 Anthropic",
-      "url": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-      "summary": "新数据显示，在企业用户市场，OpenAI 正在追赶 Anthropic。过去 Anthropic 在企业圈更受欢迎，如今 ChatGPT 的企业版使用量快速上升。两大模型公司的商业竞争愈发激烈。",
-      "date": "2026-08-21",
+      "title": "Anthropic releases advanced context window management tools",
+      "url": "https://techcrunch.com/2026/09/11/anthropic-context-window-management/",
+      "summary": "Anthropic 推出高级上下文窗口管理工具，帮助开发者更高效地处理超长文档与多模态数据，降低大模型应用的内存开销。",
+      "date": "2026-09-12",
       "source": "TechCrunch",
-      "tag": "OpenAI · Anthropic · 企业用户"
+      "tag": "Anthropic · 上下文 · 开发者工具"
     },
     {
-      "title": "Google 给出版商新工具，应对 AI 抢走网站流量",
-      "url": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-      "summary": "Google 给新闻出版商提供了一个新工具，帮助它们应对 AI 搜索抢走网站流量的问题。出版商可在内容里标注，让 AI 概览更清楚地链回原文。AI 时代媒体如何保住读者成焦点。",
-      "date": "2026-08-21",
-      "source": "TechCrunch",
-      "tag": "Google · 出版商 · 流量"
-    },
-    {
-      "title": "xAI 的 Grok 持续向用户发送乱码回复",
-      "url": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
-      "summary": "xAI 的聊天机器人 Grok 持续向部分用户发送乱码和无意义的回复。问题出现数小时仍未完全修复，引发对大模型稳定性的质疑。AI 可靠性仍是落地难点。",
-      "date": "2026-08-21",
-      "source": "TechCrunch",
-      "tag": "Grok · xAI · 乱码回复"
-    },
-    {
-      "title": "Ramp 推出自家 AI 模型路由器 'Router'",
-      "url": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
-      "summary": "财务自动化公司 Ramp 推出自家的 AI 模型路由器'Router'，可自动在多个大模型之间切换，按任务选最便宜又最合适的模型。模型路由正成为 AI 应用的新基础设施。",
-      "date": "2026-08-21",
-      "source": "TechCrunch",
-      "tag": "Ramp · 模型路由 · Router"
-    },
-    {
-      "title": "AI 训练数据创业公司 Micro1 年化营收达 5 亿美元",
-      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-      "summary": "AI 训练数据创业公司 Micro1 年化总收入达到 5 亿美元。随着各大公司疯狂训练大模型，高质量'人工标注数据'需求暴涨，数据供应商成了 AI 产业链里赚钱的一环。",
-      "date": "2026-08-21",
-      "source": "TechCrunch",
-      "tag": "Micro1 · 训练数据 · 营收"
-    },
-    {
-      "title": "Meta 推出 Pocket：用氛围编程做小游戏并分享",
-      "url": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
-      "summary": "Meta 把 Pocket 应用带到美国用户面前——这款应用让你用'氛围编程'(vibe coding)的方式做小游戏，并能一键分享给朋友。AI 编程正从工作工具变成大众娱乐。",
-      "date": "2026-08-21",
-      "source": "TechCrunch",
-      "tag": "Meta · Pocket · Vibe Coding"
-    },
-    {
-      "title": "Google 医疗 AI 系统 AMIE 展示实时视频问诊能力",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/",
-      "summary": "Google 的研究型医疗 AI 系统 AMIE 在一项首创研究中展示了实时视频问诊能力——能通过视频和患者交流、做临床咨询。AI 医生助理离真实诊室又近了一步。",
-      "date": "2026-08-21",
+      "title": "Google DeepMind unveils real-time multilingual translation assistant",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/multilingual-realtime-assistant/",
+      "summary": "Google DeepMind 发布实时多语言翻译助手，支持极低延迟的语音对语音双向实时翻译，进一步拓展全球无障碍沟通场景。",
+      "date": "2026-09-12",
       "source": "Google Blog",
-      "tag": "Google · AMIE · 医疗 AI"
+      "tag": "Google · 语音翻译 · 实时 AI"
+    },
+    {
+      "title": "Meta open-sources lightweight multimodal vision encoder",
+      "url": "https://techcrunch.com/2026/09/11/meta-open-sources-multilingual-speech-translation-model/",
+      "summary": "Meta 开源轻量级多模态视觉编码器，专为边缘设备和手机端侧 AI 部署优化，使低功耗终端也能流畅运行强大视觉理解。",
+      "date": "2026-09-12",
+      "source": "TechCrunch",
+      "tag": "Meta · 开源 · 端侧 AI"
+    },
+    {
+      "title": "Apple integrates deeper agentic workflows in upcoming OS update",
+      "url": "https://techcrunch.com/2026/09/11/apple-agentic-workflows-os-update/",
+      "summary": "苹果在即将到来的操作系统更新中深度整合 Agent 工作流，允许 AI 助手跨应用自动执行复杂连贯的任务，提升系统级智能体验。",
+      "date": "2026-09-12",
+      "source": "TechCrunch",
+      "tag": "Apple · Agent · 操作系统"
+    },
+    {
+      "title": "Microsoft introduces automated compliance auditing for AI pipelines",
+      "url": "https://techcrunch.com/2026/09/11/microsoft-automated-compliance-auditing-ai/",
+      "summary": "微软推出面向 AI 管道的自动化合规审计工具，帮助企业在训练和部署大模型时自动检测偏见、隐私泄露与版权风险。",
+      "date": "2026-09-12",
+      "source": "TechCrunch",
+      "tag": "Microsoft · 合规审计 · AI 治理"
+    },
+    {
+      "title": "Stripe partners with AI startups to automate global tax filing",
+      "url": "https://techcrunch.com/2026/09/11/stripe-ai-automated-global-tax-filing/",
+      "summary": "支付巨头 Stripe 与多家 AI 创业公司合作，推出由大模型驱动的全球自动化税务申报与合规检查服务，大幅减轻跨国企业财务负担。",
+      "date": "2026-09-12",
+      "source": "TechCrunch",
+      "tag": "Stripe · 自动化税务 · 金融 AI"
     }
   ]
 }
